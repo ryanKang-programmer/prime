@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/prime/static/css/main.8f3fb095.css",
-    "main.js": "/prime/static/js/main.33d1aa06.js",
+    "main.js": "/prime/static/js/main.d175470d.js",
     "static/js/787.0361ec6e.chunk.js": "/prime/static/js/787.0361ec6e.chunk.js",
     "cesium/index.cjs": "/prime/cesium/index.cjs",
     "cesium/Cesium.js": "/prime/cesium/Cesium.js",
@@ -383,11 +383,11 @@
     "cesium/ThirdParty/Workers/package.js": "/prime/cesium/ThirdParty/Workers/package.js",
     "cesium/ThirdParty/Workers/package.json": "/prime/cesium/ThirdParty/Workers/package.json",
     "main.8f3fb095.css.map": "/prime/static/css/main.8f3fb095.css.map",
-    "main.33d1aa06.js.map": "/prime/static/js/main.33d1aa06.js.map",
+    "main.d175470d.js.map": "/prime/static/js/main.d175470d.js.map",
     "787.0361ec6e.chunk.js.map": "/prime/static/js/787.0361ec6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8f3fb095.css",
-    "static/js/main.33d1aa06.js"
+    "static/js/main.d175470d.js"
   ]
 }
