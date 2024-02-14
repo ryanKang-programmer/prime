@@ -1,0 +1,54 @@
+.flex {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+/* bootstrap grid system css */
+.one {
+    margin-top: 15px;
+    background-color: white;
+    border-right: 1px solid black;
+    /* margin-left: -15px;  */
+    /* padding-left: -20px; */
+    min-height: 80vh;
+}
+
+.two {
+    margin-top: 15px;
+    background-color: white;
+    min-height: 80vh;
+}
+
+.three {
+    margin-top: 15px;
+    border-left: 1px solid black;
+    background-color: white;
+    min-height: 80vh;
+}
+
+.lower {
+    padding-top: 20px;
+}
+
+h5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+#dropdown-basic {
+    margin-left: 5px;
+    background-color: white;
+    color: black;
+    border-color: black;
+    margin-bottom: 10px;
+}
+
+#dropdown-basic::selection, #dropdown-basic:active {
+    background-color: gray;
+    border-color: gray;
+}

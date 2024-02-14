@@ -1,0 +1,3369 @@
+[
+ {
+  "OBJECTID *": 1,
+  "Shape *": "Point",
+  "name": "Killarney School",
+  "x_coordiante": -114.134729,
+  "y_coordinate": 51.028193
+ },
+ {
+  "OBJECTID *": 2,
+  "Shape *": "Point",
+  "name": "Rundle Studio",
+  "x_coordiante": -114.193922,
+  "y_coordinate": 51.036894
+ },
+ {
+  "OBJECTID *": 3,
+  "Shape *": "Point",
+  "name": "Calgary Arts Academy",
+  "x_coordiante": -114.049242,
+  "y_coordinate": 51.039402
+ },
+ {
+  "OBJECTID *": 4,
+  "Shape *": "Point",
+  "name": "St. Helena School",
+  "x_coordiante": -114.067762,
+  "y_coordinate": 51.111507
+ },
+ {
+  "OBJECTID *": 5,
+  "Shape *": "Point",
+  "name": "Western Canada High School",
+  "x_coordiante": -114.077548,
+  "y_coordinate": 51.036995
+ },
+ {
+  "OBJECTID *": 6,
+  "Shape *": "Point",
+  "name": "Janet Johnstone School",
+  "x_coordiante": -114.080086,
+  "y_coordinate": 50.909369
+ },
+ {
+  "OBJECTID *": 7,
+  "Shape *": "Point",
+  "name": "Canadian Montessori School North",
+  "x_coordiante": -114.088262,
+  "y_coordinate": 50.990745
+ },
+ {
+  "OBJECTID *": 8,
+  "Shape *": "Point",
+  "name": "Our Lady of Grace School",
+  "x_coordiante": -114.120487,
+  "y_coordinate": 51.179339
+ },
+ {
+  "OBJECTID *": 9,
+  "Shape *": "Point",
+  "name": "Father James Whelihan",
+  "x_coordiante": -114.047019,
+  "y_coordinate": 50.904524
+ },
+ {
+  "OBJECTID *": 10,
+  "Shape *": "Point",
+  "name": "Simon Fraser School",
+  "x_coordiante": -114.13655,
+  "y_coordinate": 51.100319
+ },
+ {
+  "OBJECTID *": 11,
+  "Shape *": "Point",
+  "name": "CLS James Fowler Writing Centre",
+  "x_coordiante": -114.070516,
+  "y_coordinate": 51.086532
+ },
+ {
+  "OBJECTID *": 12,
+  "Shape *": "Point",
+  "name": "Dr. Gladys McKelvie Egbert School",
+  "x_coordiante": -113.941529,
+  "y_coordinate": 51.058892
+ },
+ {
+  "OBJECTID *": 13,
+  "Shape *": "Point",
+  "name": "The Gilbertine Academy",
+  "x_coordiante": -114.029251,
+  "y_coordinate": 51.040024
+ },
+ {
+  "OBJECTID *": 14,
+  "Shape *": "Point",
+  "name": "Riverbend School",
+  "x_coordiante": -114.018502,
+  "y_coordinate": 50.972156
+ },
+ {
+  "OBJECTID *": 15,
+  "Shape *": "Point",
+  "name": "St. Philip School",
+  "x_coordiante": -114.038275,
+  "y_coordinate": 50.927883
+ },
+ {
+  "OBJECTID *": 16,
+  "Shape *": "Point",
+  "name": "St. Peter Elementary School",
+  "x_coordiante": -113.949107,
+  "y_coordinate": 51.046185
+ },
+ {
+  "OBJECTID *": 17,
+  "Shape *": "Point",
+  "name": "Georges P. Vanier School",
+  "x_coordiante": -114.052069,
+  "y_coordinate": 51.080605
+ },
+ {
+  "OBJECTID *": 18,
+  "Shape *": "Point",
+  "name": "Senator Patrick Burns School",
+  "x_coordiante": -114.115537,
+  "y_coordinate": 51.088211
+ },
+ {
+  "OBJECTID *": 19,
+  "Shape *": "Point",
+  "name": "William Reid School",
+  "x_coordiante": -114.090343,
+  "y_coordinate": 51.022174
+ },
+ {
+  "OBJECTID *": 20,
+  "Shape *": "Point",
+  "name": "Tom Baines School",
+  "x_coordiante": -114.156993,
+  "y_coordinate": 51.133514
+ },
+ {
+  "OBJECTID *": 21,
+  "Shape *": "Point",
+  "name": "Forest Lawn High School",
+  "x_coordiante": -113.96895,
+  "y_coordinate": 51.042403
+ },
+ {
+  "OBJECTID *": 22,
+  "Shape *": "Point",
+  "name": "Notre-Dame de la Paix",
+  "x_coordiante": -114.043373,
+  "y_coordinate": 50.950917
+ },
+ {
+  "OBJECTID *": 23,
+  "Shape *": "Point",
+  "name": "Calgary Academy Collegiate",
+  "x_coordiante": -114.224248,
+  "y_coordinate": 51.03943
+ },
+ {
+  "OBJECTID *": 24,
+  "Shape *": "Point",
+  "name": "Hillhurst School",
+  "x_coordiante": -114.093137,
+  "y_coordinate": 51.059295
+ },
+ {
+  "OBJECTID *": 25,
+  "Shape *": "Point",
+  "name": "Cecil Swanson School",
+  "x_coordiante": -113.967543,
+  "y_coordinate": 51.074182
+ },
+ {
+  "OBJECTID *": 26,
+  "Shape *": "Point",
+  "name": "Bishop O'Byrne High School",
+  "x_coordiante": -114.064567,
+  "y_coordinate": 50.898092
+ },
+ {
+  "OBJECTID *": 27,
+  "Shape *": "Point",
+  "name": "Little Angels",
+  "x_coordiante": -114.088022,
+  "y_coordinate": 51.087173
+ },
+ {
+  "OBJECTID *": 28,
+  "Shape *": "Point",
+  "name": "Saddle Ridge School",
+  "x_coordiante": -113.93688,
+  "y_coordinate": 51.136883
+ },
+ {
+  "OBJECTID *": 29,
+  "Shape *": "Point",
+  "name": "Royal Oak School",
+  "x_coordiante": -114.222069,
+  "y_coordinate": 51.145573
+ },
+ {
+  "OBJECTID *": 30,
+  "Shape *": "Point",
+  "name": "Chinook Learning Services",
+  "x_coordiante": -114.065426,
+  "y_coordinate": 51.068582
+ },
+ {
+  "OBJECTID *": 31,
+  "Shape *": "Point",
+  "name": "St. Maria Goretti Elementary School",
+  "x_coordiante": -114.177751,
+  "y_coordinate": 51.134524
+ },
+ {
+  "OBJECTID *": 32,
+  "Shape *": "Point",
+  "name": "St. Clare",
+  "x_coordiante": -114.045396,
+  "y_coordinate": 51.164743
+ },
+ {
+  "OBJECTID *": 33,
+  "Shape *": "Point",
+  "name": "Calgary Quest School",
+  "x_coordiante": -114.136639,
+  "y_coordinate": 51.049721
+ },
+ {
+  "OBJECTID *": 34,
+  "Shape *": "Point",
+  "name": "Harold Panabaker School",
+  "x_coordiante": -114.086648,
+  "y_coordinate": 50.95764
+ },
+ {
+  "OBJECTID *": 35,
+  "Shape *": "Point",
+  "name": "Lord Beaverbrook High School",
+  "x_coordiante": -114.06164,
+  "y_coordinate": 50.9731
+ },
+ {
+  "OBJECTID *": 36,
+  "Shape *": "Point",
+  "name": "St. Luke Bilingual Elementary School",
+  "x_coordiante": -114.122687,
+  "y_coordinate": 51.090827
+ },
+ {
+  "OBJECTID *": 37,
+  "Shape *": "Point",
+  "name": "Peter Lougheed School",
+  "x_coordiante": -113.955683,
+  "y_coordinate": 51.13067
+ },
+ {
+  "OBJECTID *": 38,
+  "Shape *": "Point",
+  "name": "Canyon Meadows School",
+  "x_coordiante": -114.078091,
+  "y_coordinate": 50.94741
+ },
+ {
+  "OBJECTID *": 39,
+  "Shape *": "Point",
+  "name": "St. Damien School",
+  "x_coordiante": -113.992228,
+  "y_coordinate": 51.02192
+ },
+ {
+  "OBJECTID *": 40,
+  "Shape *": "Point",
+  "name": "Greek Community School",
+  "x_coordiante": -114.137494,
+  "y_coordinate": 51.048174
+ },
+ {
+  "OBJECTID *": 41,
+  "Shape *": "Point",
+  "name": "Holy Name (Bilingual) School",
+  "x_coordiante": -114.139004,
+  "y_coordinate": 51.028272
+ },
+ {
+  "OBJECTID *": 42,
+  "Shape *": "Point",
+  "name": "Capstone Engineering Academy",
+  "x_coordiante": -114.039986,
+  "y_coordinate": 50.99828
+ },
+ {
+  "OBJECTID *": 43,
+  "Shape *": "Point",
+  "name": "Midnapore School",
+  "x_coordiante": -114.055175,
+  "y_coordinate": 50.91504
+ },
+ {
+  "OBJECTID *": 44,
+  "Shape *": "Point",
+  "name": "Children's Village School",
+  "x_coordiante": -114.041964,
+  "y_coordinate": 51.063869
+ },
+ {
+  "OBJECTID *": 45,
+  "Shape *": "Point",
+  "name": "Ron Southern School",
+  "x_coordiante": -114.085688,
+  "y_coordinate": 50.880932
+ },
+ {
+  "OBJECTID *": 46,
+  "Shape *": "Point",
+  "name": "River Valley School ECS",
+  "x_coordiante": -114.174344,
+  "y_coordinate": 51.079469
+ },
+ {
+  "OBJECTID *": 47,
+  "Shape *": "Point",
+  "name": "Filipino Language and Cultural School of Calgary",
+  "x_coordiante": -113.9678,
+  "y_coordinate": 51.100647
+ },
+ {
+  "OBJECTID *": 48,
+  "Shape *": "Point",
+  "name": "Chinook Park School",
+  "x_coordiante": -114.08937,
+  "y_coordinate": 50.986448
+ },
+ {
+  "OBJECTID *": 49,
+  "Shape *": "Point",
+  "name": "MAC Islamic School - Calgary Chapter",
+  "x_coordiante": -114.179932,
+  "y_coordinate": 51.114837
+ },
+ {
+  "OBJECTID *": 50,
+  "Shape *": "Point",
+  "name": "Varsity Acres School",
+  "x_coordiante": -114.148218,
+  "y_coordinate": 51.091014
+ },
+ {
+  "OBJECTID *": 51,
+  "Shape *": "Point",
+  "name": "Our Lady of Lourdes",
+  "x_coordiante": -114.06816,
+  "y_coordinate": 51.035673
+ },
+ {
+  "OBJECTID *": 52,
+  "Shape *": "Point",
+  "name": "Calgary Jewish Academy",
+  "x_coordiante": -114.092607,
+  "y_coordinate": 50.993495
+ },
+ {
+  "OBJECTID *": 53,
+  "Shape *": "Point",
+  "name": "Foothills Academy",
+  "x_coordiante": -114.142307,
+  "y_coordinate": 51.064072
+ },
+ {
+  "OBJECTID *": 54,
+  "Shape *": "Point",
+  "name": "Sir John A Macdonald School",
+  "x_coordiante": -114.070046,
+  "y_coordinate": 51.111477
+ },
+ {
+  "OBJECTID *": 55,
+  "Shape *": "Point",
+  "name": "St. Sebastian Elementary School",
+  "x_coordiante": -114.029127,
+  "y_coordinate": 50.884843
+ },
+ {
+  "OBJECTID *": 56,
+  "Shape *": "Point",
+  "name": "Dr. Roberta Bondar School",
+  "x_coordiante": -114.20553,
+  "y_coordinate": 51.050337
+ },
+ {
+  "OBJECTID *": 57,
+  "Shape *": "Point",
+  "name": "Hidden Valley School",
+  "x_coordiante": -114.11959,
+  "y_coordinate": 51.150254
+ },
+ {
+  "OBJECTID *": 58,
+  "Shape *": "Point",
+  "name": "Ascension of Our Lord",
+  "x_coordiante": -114.059689,
+  "y_coordinate": 51.146957
+ },
+ {
+  "OBJECTID *": 59,
+  "Shape *": "Point",
+  "name": "All Saints School",
+  "x_coordiante": -114.026745,
+  "y_coordinate": 50.859327
+ },
+ {
+  "OBJECTID *": 60,
+  "Shape *": "Point",
+  "name": "Chief Justice Milvain School",
+  "x_coordiante": -113.97219,
+  "y_coordinate": 51.083686
+ },
+ {
+  "OBJECTID *": 61,
+  "Shape *": "Point",
+  "name": "Janus Academy",
+  "x_coordiante": -114.045789,
+  "y_coordinate": 51.033189
+ },
+ {
+  "OBJECTID *": 62,
+  "Shape *": "Point",
+  "name": "Riverside School",
+  "x_coordiante": -114.04771,
+  "y_coordinate": 51.052851
+ },
+ {
+  "OBJECTID *": 63,
+  "Shape *": "Point",
+  "name": "Niitsitapi Learning Centre",
+  "x_coordiante": -113.979337,
+  "y_coordinate": 51.020589
+ },
+ {
+  "OBJECTID *": 64,
+  "Shape *": "Point",
+  "name": "Almadina Language Charter Academy, Mountain View Campus",
+  "x_coordiante": -113.986831,
+  "y_coordinate": 51.032201
+ },
+ {
+  "OBJECTID *": 65,
+  "Shape *": "Point",
+  "name": "Holy Child School",
+  "x_coordiante": -114.083138,
+  "y_coordinate": 50.886183
+ },
+ {
+  "OBJECTID *": 66,
+  "Shape *": "Point",
+  "name": "West Island College",
+  "x_coordiante": -114.05216,
+  "y_coordinate": 50.987104
+ },
+ {
+  "OBJECTID *": 67,
+  "Shape *": "Point",
+  "name": "University School",
+  "x_coordiante": -114.133276,
+  "y_coordinate": 51.069808
+ },
+ {
+  "OBJECTID *": 68,
+  "Shape *": "Point",
+  "name": "Bob Edwards School",
+  "x_coordiante": -113.968774,
+  "y_coordinate": 51.059929
+ },
+ {
+  "OBJECTID *": 69,
+  "Shape *": "Point",
+  "name": "St. Stephen School",
+  "x_coordiante": -114.083853,
+  "y_coordinate": 50.955695
+ },
+ {
+  "OBJECTID *": 70,
+  "Shape *": "Point",
+  "name": "Ian Bazalgette School",
+  "x_coordiante": -113.977669,
+  "y_coordinate": 51.02983
+ },
+ {
+  "OBJECTID *": 71,
+  "Shape *": "Point",
+  "name": "John Ware School",
+  "x_coordiante": -114.105305,
+  "y_coordinate": 50.963655
+ },
+ {
+  "OBJECTID *": 72,
+  "Shape *": "Point",
+  "name": "Discovering Choices",
+  "x_coordiante": -114.056693,
+  "y_coordinate": 51.04287
+ },
+ {
+  "OBJECTID *": 73,
+  "Shape *": "Point",
+  "name": "Alex Munro School",
+  "x_coordiante": -114.061395,
+  "y_coordinate": 51.120647
+ },
+ {
+  "OBJECTID *": 74,
+  "Shape *": "Point",
+  "name": "Calgary Academy",
+  "x_coordiante": -114.224248,
+  "y_coordinate": 51.03943
+ },
+ {
+  "OBJECTID *": 75,
+  "Shape *": "Point",
+  "name": "Rundle College Elementary School",
+  "x_coordiante": -114.19732,
+  "y_coordinate": 51.036713
+ },
+ {
+  "OBJECTID *": 76,
+  "Shape *": "Point",
+  "name": "Dr. Freda Miller School",
+  "x_coordiante": -114.116019,
+  "y_coordinate": 50.92085
+ },
+ {
+  "OBJECTID *": 77,
+  "Shape *": "Point",
+  "name": "Mahogany School",
+  "x_coordiante": -113.926494,
+  "y_coordinate": 50.902551
+ },
+ {
+  "OBJECTID *": 78,
+  "Shape *": "Point",
+  "name": "Janus Academy Junior\/Senior High School",
+  "x_coordiante": -114.056293,
+  "y_coordinate": 50.977438
+ },
+ {
+  "OBJECTID *": 79,
+  "Shape *": "Point",
+  "name": "James Short Memorial School",
+  "x_coordiante": -113.942798,
+  "y_coordinate": 51.04786
+ },
+ {
+  "OBJECTID *": 80,
+  "Shape *": "Point",
+  "name": "St. Gerard Bilingual School",
+  "x_coordiante": -114.088479,
+  "y_coordinate": 50.96887
+ },
+ {
+  "OBJECTID *": 81,
+  "Shape *": "Point",
+  "name": "Sir Wilfrid Laurier School",
+  "x_coordiante": -113.989306,
+  "y_coordinate": 51.045735
+ },
+ {
+  "OBJECTID *": 82,
+  "Shape *": "Point",
+  "name": "McKenzie Lake School",
+  "x_coordiante": -113.984997,
+  "y_coordinate": 50.906218
+ },
+ {
+  "OBJECTID *": 83,
+  "Shape *": "Point",
+  "name": "North Point School for Boys",
+  "x_coordiante": -114.117484,
+  "y_coordinate": 51.032556
+ },
+ {
+  "OBJECTID *": 84,
+  "Shape *": "Point",
+  "name": "Dalhousie School",
+  "x_coordiante": -114.151379,
+  "y_coordinate": 51.106527
+ },
+ {
+  "OBJECTID *": 85,
+  "Shape *": "Point",
+  "name": "Monsignor A. J. Hetherington Elementary School",
+  "x_coordiante": -113.934048,
+  "y_coordinate": 51.099552
+ },
+ {
+  "OBJECTID *": 86,
+  "Shape *": "Point",
+  "name": "Start Outreach",
+  "x_coordiante": -114.201903,
+  "y_coordinate": 51.08943
+ },
+ {
+  "OBJECTID *": 87,
+  "Shape *": "Point",
+  "name": "Citadel Park School",
+  "x_coordiante": -114.174234,
+  "y_coordinate": 51.145451
+ },
+ {
+  "OBJECTID *": 88,
+  "Shape *": "Point",
+  "name": "Project Trust",
+  "x_coordiante": -114.08284,
+  "y_coordinate": 51.07207
+ },
+ {
+  "OBJECTID *": 89,
+  "Shape *": "Point",
+  "name": "Evergreen School",
+  "x_coordiante": -114.10652,
+  "y_coordinate": 50.916924
+ },
+ {
+  "OBJECTID *": 90,
+  "Shape *": "Point",
+  "name": "Ranchlands School",
+  "x_coordiante": -114.17921,
+  "y_coordinate": 51.118705
+ },
+ {
+  "OBJECTID *": 91,
+  "Shape *": "Point",
+  "name": "St. Ambrose School",
+  "x_coordiante": -114.206164,
+  "y_coordinate": 51.13347
+ },
+ {
+  "OBJECTID *": 92,
+  "Shape *": "Point",
+  "name": "STEM Innovation Academy High School",
+  "x_coordiante": -114.130597,
+  "y_coordinate": 51.084334
+ },
+ {
+  "OBJECTID *": 93,
+  "Shape *": "Point",
+  "name": "Father Lacombe School",
+  "x_coordiante": -113.983245,
+  "y_coordinate": 51.047381
+ },
+ {
+  "OBJECTID *": 94,
+  "Shape *": "Point",
+  "name": "Canadian Montessori School West",
+  "x_coordiante": -114.088262,
+  "y_coordinate": 50.990745
+ },
+ {
+  "OBJECTID *": 95,
+  "Shape *": "Point",
+  "name": "Thorncliffe School",
+  "x_coordiante": -114.067097,
+  "y_coordinate": 51.102323
+ },
+ {
+  "OBJECTID *": 96,
+  "Shape *": "Point",
+  "name": "St. Boniface Elementary School",
+  "x_coordiante": -114.042341,
+  "y_coordinate": 50.943064
+ },
+ {
+  "OBJECTID *": 97,
+  "Shape *": "Point",
+  "name": "Willow Park School",
+  "x_coordiante": -114.060687,
+  "y_coordinate": 50.957796
+ },
+ {
+  "OBJECTID *": 98,
+  "Shape *": "Point",
+  "name": "Southwest Elementary Campus",
+  "x_coordiante": -114.082547,
+  "y_coordinate": 50.958981
+ },
+ {
+  "OBJECTID *": 99,
+  "Shape *": "Point",
+  "name": "Mountain Park School",
+  "x_coordiante": -113.98188,
+  "y_coordinate": 50.923798
+ },
+ {
+  "OBJECTID *": 100,
+  "Shape *": "Point",
+  "name": "Belfast School",
+  "x_coordiante": -114.018308,
+  "y_coordinate": 51.063375
+ },
+ {
+  "OBJECTID *": 101,
+  "Shape *": "Point",
+  "name": "Renfrew Educational Services-Janice McTighe Centre",
+  "x_coordiante": -114.008292,
+  "y_coordinate": 51.069617
+ },
+ {
+  "OBJECTID *": 102,
+  "Shape *": "Point",
+  "name": "New Brighton School",
+  "x_coordiante": -113.953708,
+  "y_coordinate": 50.919477
+ },
+ {
+  "OBJECTID *": 103,
+  "Shape *": "Point",
+  "name": "St. Patrick School",
+  "x_coordiante": -113.946703,
+  "y_coordinate": 51.07199
+ },
+ {
+  "OBJECTID *": 104,
+  "Shape *": "Point",
+  "name": "Sunnyside School",
+  "x_coordiante": -114.079544,
+  "y_coordinate": 51.056562
+ },
+ {
+  "OBJECTID *": 105,
+  "Shape *": "Point",
+  "name": "Ernest Manning High School",
+  "x_coordiante": -114.189235,
+  "y_coordinate": 51.035957
+ },
+ {
+  "OBJECTID *": 106,
+  "Shape *": "Point",
+  "name": "Midsun School",
+  "x_coordiante": -114.030915,
+  "y_coordinate": 50.901849
+ },
+ {
+  "OBJECTID *": 107,
+  "Shape *": "Point",
+  "name": "St. John XXIII School",
+  "x_coordiante": -113.938978,
+  "y_coordinate": 51.101405
+ },
+ {
+  "OBJECTID *": 108,
+  "Shape *": "Point",
+  "name": "Maple Ridge School",
+  "x_coordiante": -114.041959,
+  "y_coordinate": 50.961891
+ },
+ {
+  "OBJECTID *": 109,
+  "Shape *": "Point",
+  "name": "Central Memorial High School",
+  "x_coordiante": -114.113521,
+  "y_coordinate": 51.007928
+ },
+ {
+  "OBJECTID *": 110,
+  "Shape *": "Point",
+  "name": "St. Margaret School",
+  "x_coordiante": -114.097637,
+  "y_coordinate": 51.082135
+ },
+ {
+  "OBJECTID *": 111,
+  "Shape *": "Point",
+  "name": "Montessori School of Calgary",
+  "x_coordiante": -114.076078,
+  "y_coordinate": 51.033361
+ },
+ {
+  "OBJECTID *": 112,
+  "Shape *": "Point",
+  "name": "Crescent Heights High School",
+  "x_coordiante": -114.066091,
+  "y_coordinate": 51.06149
+ },
+ {
+  "OBJECTID *": 113,
+  "Shape *": "Point",
+  "name": "Joane Cardinal-Schubert High School",
+  "x_coordiante": -113.94401,
+  "y_coordinate": 50.878022
+ },
+ {
+  "OBJECTID *": 114,
+  "Shape *": "Point",
+  "name": "Trinity Christian School",
+  "x_coordiante": -114.06224,
+  "y_coordinate": 50.909328
+ },
+ {
+  "OBJECTID *": 115,
+  "Shape *": "Point",
+  "name": "Dr. Oakley School",
+  "x_coordiante": -114.108435,
+  "y_coordinate": 51.019272
+ },
+ {
+  "OBJECTID *": 116,
+  "Shape *": "Point",
+  "name": "Olympic Heights School",
+  "x_coordiante": -114.180776,
+  "y_coordinate": 51.045968
+ },
+ {
+  "OBJECTID *": 117,
+  "Shape *": "Point",
+  "name": "Ted Harrison School",
+  "x_coordiante": -113.928254,
+  "y_coordinate": 51.117233
+ },
+ {
+  "OBJECTID *": 118,
+  "Shape *": "Point",
+  "name": "Sunalta School",
+  "x_coordiante": -114.110898,
+  "y_coordinate": 51.041343
+ },
+ {
+  "OBJECTID *": 119,
+  "Shape *": "Point",
+  "name": "Renfrew Educational Services - Park Place Centre",
+  "x_coordiante": -114.008292,
+  "y_coordinate": 51.069617
+ },
+ {
+  "OBJECTID *": 120,
+  "Shape *": "Point",
+  "name": "Phoenix Education Foundation",
+  "x_coordiante": -114.007826,
+  "y_coordinate": 51.050264
+ },
+ {
+  "OBJECTID *": 121,
+  "Shape *": "Point",
+  "name": "Briar Hill School",
+  "x_coordiante": -114.111418,
+  "y_coordinate": 51.063113
+ },
+ {
+  "OBJECTID *": 122,
+  "Shape *": "Point",
+  "name": "Eastside Christian Academy",
+  "x_coordiante": -113.93022,
+  "y_coordinate": 51.051952
+ },
+ {
+  "OBJECTID *": 123,
+  "Shape *": "Point",
+  "name": "St. Mark Elementary School",
+  "x_coordiante": -113.969348,
+  "y_coordinate": 51.063032
+ },
+ {
+  "OBJECTID *": 124,
+  "Shape *": "Point",
+  "name": "Tuscany School",
+  "x_coordiante": -114.245431,
+  "y_coordinate": 51.117787
+ },
+ {
+  "OBJECTID *": 125,
+  "Shape *": "Point",
+  "name": "Akiva Academy",
+  "x_coordiante": -114.077824,
+  "y_coordinate": 50.973277
+ },
+ {
+  "OBJECTID *": 126,
+  "Shape *": "Point",
+  "name": "Valley Creek School",
+  "x_coordiante": -114.116673,
+  "y_coordinate": 51.150234
+ },
+ {
+  "OBJECTID *": 127,
+  "Shape *": "Point",
+  "name": "Keeler School",
+  "x_coordiante": -113.964813,
+  "y_coordinate": 51.049257
+ },
+ {
+  "OBJECTID *": 128,
+  "Shape *": "Point",
+  "name": "Wood's Homes School",
+  "x_coordiante": -114.224228,
+  "y_coordinate": 51.096098
+ },
+ {
+  "OBJECTID *": 129,
+  "Shape *": "Point",
+  "name": "Corpus Christi School",
+  "x_coordiante": -114.068032,
+  "y_coordinate": 51.101597
+ },
+ {
+  "OBJECTID *": 130,
+  "Shape *": "Point",
+  "name": "Collingwood School",
+  "x_coordiante": -114.103257,
+  "y_coordinate": 51.085782
+ },
+ {
+  "OBJECTID *": 131,
+  "Shape *": "Point",
+  "name": "St. Brigid",
+  "x_coordiante": -114.187723,
+  "y_coordinate": 51.14634
+ },
+ {
+  "OBJECTID *": 132,
+  "Shape *": "Point",
+  "name": "Cranston School",
+  "x_coordiante": -113.987242,
+  "y_coordinate": 50.886787
+ },
+ {
+  "OBJECTID *": 133,
+  "Shape *": "Point",
+  "name": "St. Catherine Elementary School",
+  "x_coordiante": -114.086489,
+  "y_coordinate": 50.943846
+ },
+ {
+  "OBJECTID *": 134,
+  "Shape *": "Point",
+  "name": "King George School",
+  "x_coordiante": -114.084056,
+  "y_coordinate": 51.070897
+ },
+ {
+  "OBJECTID *": 135,
+  "Shape *": "Point",
+  "name": "West Dalhousie School",
+  "x_coordiante": -114.169539,
+  "y_coordinate": 51.111168
+ },
+ {
+  "OBJECTID *": 136,
+  "Shape *": "Point",
+  "name": "St. Joseph Elementary Junior High School",
+  "x_coordiante": -114.073317,
+  "y_coordinate": 51.074787
+ },
+ {
+  "OBJECTID *": 137,
+  "Shape *": "Point",
+  "name": "Tyndale Christian School",
+  "x_coordiante": -113.867746,
+  "y_coordinate": 51.058634
+ },
+ {
+  "OBJECTID *": 138,
+  "Shape *": "Point",
+  "name": "Renfrew Thomas W. Buchanan Centre",
+  "x_coordiante": -114.056006,
+  "y_coordinate": 50.901944
+ },
+ {
+  "OBJECTID *": 139,
+  "Shape *": "Point",
+  "name": "A. E. Cross School",
+  "x_coordiante": -114.142096,
+  "y_coordinate": 51.023244
+ },
+ {
+  "OBJECTID *": 140,
+  "Shape *": "Point",
+  "name": "St. Wilfrid Elementary School",
+  "x_coordiante": -113.968994,
+  "y_coordinate": 51.091926
+ },
+ {
+  "OBJECTID *": 141,
+  "Shape *": "Point",
+  "name": "Mayland Heights School",
+  "x_coordiante": -114.007293,
+  "y_coordinate": 51.058952
+ },
+ {
+  "OBJECTID *": 142,
+  "Shape *": "Point",
+  "name": "New Heights School and Learning Services",
+  "x_coordiante": -114.122171,
+  "y_coordinate": 51.018474
+ },
+ {
+  "OBJECTID *": 143,
+  "Shape *": "Point",
+  "name": "St. William School",
+  "x_coordiante": -114.059258,
+  "y_coordinate": 50.953622
+ },
+ {
+  "OBJECTID *": 144,
+  "Shape *": "Point",
+  "name": "Dr. E. W. Coffin School",
+  "x_coordiante": -114.134799,
+  "y_coordinate": 51.103753
+ },
+ {
+  "OBJECTID *": 145,
+  "Shape *": "Point",
+  "name": "St. Anthony",
+  "x_coordiante": -114.079295,
+  "y_coordinate": 51.010108
+ },
+ {
+  "OBJECTID *": 146,
+  "Shape *": "Point",
+  "name": "Monsignor Neville Anderson School",
+  "x_coordiante": -114.104092,
+  "y_coordinate": 51.139143
+ },
+ {
+  "OBJECTID *": 147,
+  "Shape *": "Point",
+  "name": "R. T. Alderman School",
+  "x_coordiante": -114.044588,
+  "y_coordinate": 50.961159
+ },
+ {
+  "OBJECTID *": 148,
+  "Shape *": "Point",
+  "name": "Lycee Louis Pasteur",
+  "x_coordiante": -114.114483,
+  "y_coordinate": 51.017643
+ },
+ {
+  "OBJECTID *": 149,
+  "Shape *": "Point",
+  "name": "O. S. Geiger School",
+  "x_coordiante": -113.96154,
+  "y_coordinate": 51.104886
+ },
+ {
+  "OBJECTID *": 150,
+  "Shape *": "Point",
+  "name": "Hugh A. Bennett School",
+  "x_coordiante": -113.928548,
+  "y_coordinate": 51.131684
+ },
+ {
+  "OBJECTID *": 151,
+  "Shape *": "Point",
+  "name": "School of East Indian Languages and Performing Arts",
+  "x_coordiante": -114.087545,
+  "y_coordinate": 50.883741
+ },
+ {
+  "OBJECTID *": 152,
+  "Shape *": "Point",
+  "name": "Marion Carson School",
+  "x_coordiante": -114.161406,
+  "y_coordinate": 51.092917
+ },
+ {
+  "OBJECTID *": 153,
+  "Shape *": "Point",
+  "name": "James Fowler High School",
+  "x_coordiante": -114.070516,
+  "y_coordinate": 51.086532
+ },
+ {
+  "OBJECTID *": 154,
+  "Shape *": "Point",
+  "name": "Westbrook Outreach",
+  "x_coordiante": -114.140307,
+  "y_coordinate": 51.044288
+ },
+ {
+  "OBJECTID *": 155,
+  "Shape *": "Point",
+  "name": "Sherwood School",
+  "x_coordiante": -114.011478,
+  "y_coordinate": 50.993697
+ },
+ {
+  "OBJECTID *": 156,
+  "Shape *": "Point",
+  "name": "Glenbrook School",
+  "x_coordiante": -114.154997,
+  "y_coordinate": 51.023511
+ },
+ {
+  "OBJECTID *": 157,
+  "Shape *": "Point",
+  "name": "St. Jean Brebeuf School",
+  "x_coordiante": -114.140229,
+  "y_coordinate": 51.097893
+ },
+ {
+  "OBJECTID *": 158,
+  "Shape *": "Point",
+  "name": "Renfrew Educational Services-Bowness Centre",
+  "x_coordiante": -114.211924,
+  "y_coordinate": 51.096329
+ },
+ {
+  "OBJECTID *": 159,
+  "Shape *": "Point",
+  "name": "River Valley School",
+  "x_coordiante": -114.174344,
+  "y_coordinate": 51.079469
+ },
+ {
+  "OBJECTID *": 160,
+  "Shape *": "Point",
+  "name": "Eugene Coste School",
+  "x_coordiante": -114.086978,
+  "y_coordinate": 50.96789
+ },
+ {
+  "OBJECTID *": 161,
+  "Shape *": "Point",
+  "name": "St. Elizabeth Seton",
+  "x_coordiante": -114.110436,
+  "y_coordinate": 51.151102
+ },
+ {
+  "OBJECTID *": 162,
+  "Shape *": "Point",
+  "name": "Ramsay School",
+  "x_coordiante": -114.045789,
+  "y_coordinate": 51.033189
+ },
+ {
+  "OBJECTID *": 163,
+  "Shape *": "Point",
+  "name": "The Third Academy",
+  "x_coordiante": -114.05146,
+  "y_coordinate": 50.985122
+ },
+ {
+  "OBJECTID *": 164,
+  "Shape *": "Point",
+  "name": "Rosscarrock School",
+  "x_coordiante": -114.144782,
+  "y_coordinate": 51.041216
+ },
+ {
+  "OBJECTID *": 165,
+  "Shape *": "Point",
+  "name": "Dr. Gordon Higgins School",
+  "x_coordiante": -113.970664,
+  "y_coordinate": 51.07527
+ },
+ {
+  "OBJECTID *": 166,
+  "Shape *": "Point",
+  "name": "McKenzie Highlands School",
+  "x_coordiante": -113.970073,
+  "y_coordinate": 50.910994
+ },
+ {
+  "OBJECTID *": 167,
+  "Shape *": "Point",
+  "name": "Discovering Choices II",
+  "x_coordiante": -113.97841,
+  "y_coordinate": 51.055339
+ },
+ {
+  "OBJECTID *": 168,
+  "Shape *": "Point",
+  "name": "St. Thomas Aquinas School",
+  "x_coordiante": -114.151854,
+  "y_coordinate": 51.030972
+ },
+ {
+  "OBJECTID *": 169,
+  "Shape *": "Point",
+  "name": "?cole La Mosa?que",
+  "x_coordiante": -113.957512,
+  "y_coordinate": 51.113767
+ },
+ {
+  "OBJECTID *": 170,
+  "Shape *": "Point",
+  "name": "Adolescent Mental Health Services",
+  "x_coordiante": -114.134411,
+  "y_coordinate": 51.064669
+ },
+ {
+  "OBJECTID *": 171,
+  "Shape *": "Point",
+  "name": "St. Cecilia (Bilingual) Elementary School",
+  "x_coordiante": -114.050411,
+  "y_coordinate": 50.965296
+ },
+ {
+  "OBJECTID *": 172,
+  "Shape *": "Point",
+  "name": "Ecole Terre des Jeunes",
+  "x_coordiante": -114.149973,
+  "y_coordinate": 51.085309
+ },
+ {
+  "OBJECTID *": 173,
+  "Shape *": "Point",
+  "name": "St. Thomas More School",
+  "x_coordiante": -113.945535,
+  "y_coordinate": 51.085415
+ },
+ {
+  "OBJECTID *": 174,
+  "Shape *": "Point",
+  "name": "Balmoral School",
+  "x_coordiante": -114.06648,
+  "y_coordinate": 51.067882
+ },
+ {
+  "OBJECTID *": 175,
+  "Shape *": "Point",
+  "name": "Sundance School",
+  "x_coordiante": -114.046813,
+  "y_coordinate": 50.900661
+ },
+ {
+  "OBJECTID *": 176,
+  "Shape *": "Point",
+  "name": "St. Benedict School",
+  "x_coordiante": -114.105447,
+  "y_coordinate": 50.961993
+ },
+ {
+  "OBJECTID *": 177,
+  "Shape *": "Point",
+  "name": "Nose Creek School",
+  "x_coordiante": -114.0607,
+  "y_coordinate": 51.16715
+ },
+ {
+  "OBJECTID *": 178,
+  "Shape *": "Point",
+  "name": "St. Bede Elementary School",
+  "x_coordiante": -114.082846,
+  "y_coordinate": 51.131674
+ },
+ {
+  "OBJECTID *": 179,
+  "Shape *": "Point",
+  "name": "Glenmeadows School",
+  "x_coordiante": -114.158929,
+  "y_coordinate": 51.034862
+ },
+ {
+  "OBJECTID *": 180,
+  "Shape *": "Point",
+  "name": "Valley View School",
+  "x_coordiante": -113.975278,
+  "y_coordinate": 51.030055
+ },
+ {
+  "OBJECTID *": 181,
+  "Shape *": "Point",
+  "name": "Prince of Wales School",
+  "x_coordiante": -114.033308,
+  "y_coordinate": 50.924764
+ },
+ {
+  "OBJECTID *": 182,
+  "Shape *": "Point",
+  "name": "Sir John Franklin School",
+  "x_coordiante": -114.007923,
+  "y_coordinate": 51.059677
+ },
+ {
+  "OBJECTID *": 183,
+  "Shape *": "Point",
+  "name": "St. Henry Elementary School",
+  "x_coordiante": -114.080178,
+  "y_coordinate": 51.117598
+ },
+ {
+  "OBJECTID *": 184,
+  "Shape *": "Point",
+  "name": "Lakeshore School",
+  "x_coordiante": -113.953794,
+  "y_coordinate": 50.895912
+ },
+ {
+  "OBJECTID *": 185,
+  "Shape *": "Point",
+  "name": "Woodlands School",
+  "x_coordiante": -114.10697,
+  "y_coordinate": 50.938935
+ },
+ {
+  "OBJECTID *": 186,
+  "Shape *": "Point",
+  "name": "Calgary Classical Academy",
+  "x_coordiante": -114.04882,
+  "y_coordinate": 51.054422
+ },
+ {
+  "OBJECTID *": 187,
+  "Shape *": "Point",
+  "name": "McKenzie Towne School",
+  "x_coordiante": -113.966718,
+  "y_coordinate": 50.927049
+ },
+ {
+  "OBJECTID *": 188,
+  "Shape *": "Point",
+  "name": "Silver Springs School",
+  "x_coordiante": -114.190826,
+  "y_coordinate": 51.10571
+ },
+ {
+  "OBJECTID *": 189,
+  "Shape *": "Point",
+  "name": "Monsignor J. S. Smith School",
+  "x_coordiante": -113.989864,
+  "y_coordinate": 50.941212
+ },
+ {
+  "OBJECTID *": 190,
+  "Shape *": "Point",
+  "name": "Al-Qaim International School",
+  "x_coordiante": -114.05146,
+  "y_coordinate": 50.985122
+ },
+ {
+  "OBJECTID *": 191,
+  "Shape *": "Point",
+  "name": "Cambrian Heights School",
+  "x_coordiante": -114.087974,
+  "y_coordinate": 51.085352
+ },
+ {
+  "OBJECTID *": 192,
+  "Shape *": "Point",
+  "name": "LYNX West",
+  "x_coordiante": -114.158764,
+  "y_coordinate": 51.024786
+ },
+ {
+  "OBJECTID *": 193,
+  "Shape *": "Point",
+  "name": "Banting and Best School",
+  "x_coordiante": -114.013854,
+  "y_coordinate": 50.993726
+ },
+ {
+  "OBJECTID *": 194,
+  "Shape *": "Point",
+  "name": "Southeast Elementary Campus",
+  "x_coordiante": -114.045406,
+  "y_coordinate": 50.967242
+ },
+ {
+  "OBJECTID *": 195,
+  "Shape *": "Point",
+  "name": "Our Lady of the Evergreens Catholic School",
+  "x_coordiante": -114.122194,
+  "y_coordinate": 50.914374
+ },
+ {
+  "OBJECTID *": 196,
+  "Shape *": "Point",
+  "name": "Sam Livingston School",
+  "x_coordiante": -114.06127,
+  "y_coordinate": 50.945448
+ },
+ {
+  "OBJECTID *": 197,
+  "Shape *": "Point",
+  "name": "Aurora Learning Calgary",
+  "x_coordiante": -114.003034,
+  "y_coordinate": 51.101339
+ },
+ {
+  "OBJECTID *": 198,
+  "Shape *": "Point",
+  "name": "Vincent Massey School",
+  "x_coordiante": -114.153423,
+  "y_coordinate": 51.044037
+ },
+ {
+  "OBJECTID *": 199,
+  "Shape *": "Point",
+  "name": "St. Matthew School",
+  "x_coordiante": -114.05851,
+  "y_coordinate": 50.978682
+ },
+ {
+  "OBJECTID *": 200,
+  "Shape *": "Point",
+  "name": "Bridlewood School",
+  "x_coordiante": -114.110662,
+  "y_coordinate": 50.902384
+ },
+ {
+  "OBJECTID *": 201,
+  "Shape *": "Point",
+  "name": "Hawkwood School",
+  "x_coordiante": -114.178746,
+  "y_coordinate": 51.130657
+ },
+ {
+  "OBJECTID *": 202,
+  "Shape *": "Point",
+  "name": "Pineridge School",
+  "x_coordiante": -113.945229,
+  "y_coordinate": 51.070325
+ },
+ {
+  "OBJECTID *": 203,
+  "Shape *": "Point",
+  "name": "North Middle School Campus",
+  "x_coordiante": -114.060601,
+  "y_coordinate": 51.095453
+ },
+ {
+  "OBJECTID *": 204,
+  "Shape *": "Point",
+  "name": "Manmeet Singh Bhullar School",
+  "x_coordiante": -113.959423,
+  "y_coordinate": 51.123307
+ },
+ {
+  "OBJECTID *": 205,
+  "Shape *": "Point",
+  "name": "St. Marguerite School",
+  "x_coordiante": -113.937231,
+  "y_coordinate": 50.921155
+ },
+ {
+  "OBJECTID *": 206,
+  "Shape *": "Point",
+  "name": "Monterey Park School",
+  "x_coordiante": -113.930483,
+  "y_coordinate": 51.077425
+ },
+ {
+  "OBJECTID *": 207,
+  "Shape *": "Point",
+  "name": "Twelve Mile Coulee School",
+  "x_coordiante": -114.24348,
+  "y_coordinate": 51.122836
+ },
+ {
+  "OBJECTID *": 208,
+  "Shape *": "Point",
+  "name": "Our Lady of Fatima",
+  "x_coordiante": -113.93791,
+  "y_coordinate": 51.116322
+ },
+ {
+  "OBJECTID *": 209,
+  "Shape *": "Point",
+  "name": "West Springs School",
+  "x_coordiante": -114.21675,
+  "y_coordinate": 51.058438
+ },
+ {
+  "OBJECTID *": 210,
+  "Shape *": "Point",
+  "name": "Holy Cross Elementary Junior High School",
+  "x_coordiante": -113.979563,
+  "y_coordinate": 51.030055
+ },
+ {
+  "OBJECTID *": 211,
+  "Shape *": "Point",
+  "name": "St. Rupert School",
+  "x_coordiante": -113.970528,
+  "y_coordinate": 51.076898
+ },
+ {
+  "OBJECTID *": 212,
+  "Shape *": "Point",
+  "name": "Mother Mary Greene School",
+  "x_coordiante": -114.139276,
+  "y_coordinate": 51.124266
+ },
+ {
+  "OBJECTID *": 213,
+  "Shape *": "Point",
+  "name": "Robert Thirsk School",
+  "x_coordiante": -114.194778,
+  "y_coordinate": 51.130841
+ },
+ {
+  "OBJECTID *": 214,
+  "Shape *": "Point",
+  "name": "Chinook Winds Adventist Academy",
+  "x_coordiante": -114.233266,
+  "y_coordinate": 51.079234
+ },
+ {
+  "OBJECTID *": 215,
+  "Shape *": "Point",
+  "name": "St. Isidore Online School",
+  "x_coordiante": -114.061133,
+  "y_coordinate": 51.074491
+ },
+ {
+  "OBJECTID *": 216,
+  "Shape *": "Point",
+  "name": "Sir Winston Churchill High School",
+  "x_coordiante": -114.13999,
+  "y_coordinate": 51.100113
+ },
+ {
+  "OBJECTID *": 217,
+  "Shape *": "Point",
+  "name": "Arbour Lake Middle School",
+  "x_coordiante": -114.209177,
+  "y_coordinate": 51.134651
+ },
+ {
+  "OBJECTID *": 218,
+  "Shape *": "Point",
+  "name": "Calgary Girls Charter School",
+  "x_coordiante": -114.114754,
+  "y_coordinate": 50.999077
+ },
+ {
+  "OBJECTID *": 219,
+  "Shape *": "Point",
+  "name": "Clarence Sansom School",
+  "x_coordiante": -113.949196,
+  "y_coordinate": 51.074613
+ },
+ {
+  "OBJECTID *": 220,
+  "Shape *": "Point",
+  "name": "Griffith Woods School",
+  "x_coordiante": -114.194747,
+  "y_coordinate": 51.030979
+ },
+ {
+  "OBJECTID *": 221,
+  "Shape *": "Point",
+  "name": "Palliser Beyond Borders at Calgary",
+  "x_coordiante": -113.999042,
+  "y_coordinate": 51.086114
+ },
+ {
+  "OBJECTID *": 222,
+  "Shape *": "Point",
+  "name": "North Haven School",
+  "x_coordiante": -114.086613,
+  "y_coordinate": 51.097509
+ },
+ {
+  "OBJECTID *": 223,
+  "Shape *": "Point",
+  "name": "Haysboro School",
+  "x_coordiante": -114.089136,
+  "y_coordinate": 50.975495
+ },
+ {
+  "OBJECTID *": 224,
+  "Shape *": "Point",
+  "name": "Connect Charter School",
+  "x_coordiante": -114.135758,
+  "y_coordinate": 51.000374
+ },
+ {
+  "OBJECTID *": 225,
+  "Shape *": "Point",
+  "name": "FFCA South High School Campus",
+  "x_coordiante": -114.065062,
+  "y_coordinate": 50.975321
+ },
+ {
+  "OBJECTID *": 226,
+  "Shape *": "Point",
+  "name": "Woodman School",
+  "x_coordiante": -114.083213,
+  "y_coordinate": 50.975658
+ },
+ {
+  "OBJECTID *": 227,
+  "Shape *": "Point",
+  "name": "St. Hubert Elementary School",
+  "x_coordiante": -114.062213,
+  "y_coordinate": 51.118376
+ },
+ {
+  "OBJECTID *": 228,
+  "Shape *": "Point",
+  "name": "Erin Woods School",
+  "x_coordiante": -113.965777,
+  "y_coordinate": 51.0227
+ },
+ {
+  "OBJECTID *": 229,
+  "Shape *": "Point",
+  "name": "St. Francis High School",
+  "x_coordiante": -114.102407,
+  "y_coordinate": 51.084507
+ },
+ {
+  "OBJECTID *": 230,
+  "Shape *": "Point",
+  "name": "Banff Trail School",
+  "x_coordiante": -114.116759,
+  "y_coordinate": 51.08164
+ },
+ {
+  "OBJECTID *": 231,
+  "Shape *": "Point",
+  "name": "St. Gianna School",
+  "x_coordiante": -113.968031,
+  "y_coordinate": 50.895514
+ },
+ {
+  "OBJECTID *": 232,
+  "Shape *": "Point",
+  "name": "Mountain View Academy",
+  "x_coordiante": -113.986104,
+  "y_coordinate": 51.088438
+ },
+ {
+  "OBJECTID *": 233,
+  "Shape *": "Point",
+  "name": "Menno Simons Christian School",
+  "x_coordiante": -114.188501,
+  "y_coordinate": 51.0242
+ },
+ {
+  "OBJECTID *": 234,
+  "Shape *": "Point",
+  "name": "Coventry Hills School",
+  "x_coordiante": -114.051414,
+  "y_coordinate": 51.16518
+ },
+ {
+  "OBJECTID *": 235,
+  "Shape *": "Point",
+  "name": "Rosedale School",
+  "x_coordiante": -114.081499,
+  "y_coordinate": 51.063597
+ },
+ {
+  "OBJECTID *": 236,
+  "Shape *": "Point",
+  "name": "?cole du Nouveau-Monde",
+  "x_coordiante": -114.215124,
+  "y_coordinate": 51.111596
+ },
+ {
+  "OBJECTID *": 237,
+  "Shape *": "Point",
+  "name": "Connaught School",
+  "x_coordiante": -114.087716,
+  "y_coordinate": 51.041533
+ },
+ {
+  "OBJECTID *": 238,
+  "Shape *": "Point",
+  "name": "Andrew Sibbald School",
+  "x_coordiante": -114.040877,
+  "y_coordinate": 50.935179
+ },
+ {
+  "OBJECTID *": 239,
+  "Shape *": "Point",
+  "name": "Braeside School",
+  "x_coordiante": -114.101694,
+  "y_coordinate": 50.956674
+ },
+ {
+  "OBJECTID *": 240,
+  "Shape *": "Point",
+  "name": "Jennie Elliott School",
+  "x_coordiante": -114.127229,
+  "y_coordinate": 50.99613
+ },
+ {
+  "OBJECTID *": 241,
+  "Shape *": "Point",
+  "name": "Horizon Leadership Academy",
+  "x_coordiante": -114.119047,
+  "y_coordinate": 51.017644
+ },
+ {
+  "OBJECTID *": 242,
+  "Shape *": "Point",
+  "name": "St. Isabella School",
+  "x_coordiante": -113.935989,
+  "y_coordinate": 50.910583
+ },
+ {
+  "OBJECTID *": 243,
+  "Shape *": "Point",
+  "name": "Vista Virtual School - Calgary Writing Centre",
+  "x_coordiante": -114.05766,
+  "y_coordinate": 51.000485
+ },
+ {
+  "OBJECTID *": 244,
+  "Shape *": "Point",
+  "name": "John Costello Catholic School",
+  "x_coordiante": -114.180707,
+  "y_coordinate": 51.048833
+ },
+ {
+  "OBJECTID *": 245,
+  "Shape *": "Point",
+  "name": "Calgary Chinese Alliance School",
+  "x_coordiante": -114.067626,
+  "y_coordinate": 51.125733
+ },
+ {
+  "OBJECTID *": 246,
+  "Shape *": "Point",
+  "name": "Juno Beach Academy of Canadian Studies",
+  "x_coordiante": -114.065062,
+  "y_coordinate": 50.975321
+ },
+ {
+  "OBJECTID *": 247,
+  "Shape *": "Point",
+  "name": "Holy Trinity School",
+  "x_coordiante": -113.974946,
+  "y_coordinate": 51.03897
+ },
+ {
+  "OBJECTID *": 248,
+  "Shape *": "Point",
+  "name": "Ecole de La Source",
+  "x_coordiante": -114.061825,
+  "y_coordinate": 50.969234
+ },
+ {
+  "OBJECTID *": 249,
+  "Shape *": "Point",
+  "name": "Nickle School",
+  "x_coordiante": -114.061435,
+  "y_coordinate": 50.940737
+ },
+ {
+  "OBJECTID *": 250,
+  "Shape *": "Point",
+  "name": "Annie Foote School",
+  "x_coordiante": -113.94033,
+  "y_coordinate": 51.085989
+ },
+ {
+  "OBJECTID *": 251,
+  "Shape *": "Point",
+  "name": "Calgary French & International School",
+  "x_coordiante": -114.197832,
+  "y_coordinate": 51.067895
+ },
+ {
+  "OBJECTID *": 252,
+  "Shape *": "Point",
+  "name": "Belvedere Parkway School",
+  "x_coordiante": -114.211559,
+  "y_coordinate": 51.092717
+ },
+ {
+  "OBJECTID *": 253,
+  "Shape *": "Point",
+  "name": "St. Andrew School",
+  "x_coordiante": -114.147724,
+  "y_coordinate": 51.016363
+ },
+ {
+  "OBJECTID *": 254,
+  "Shape *": "Point",
+  "name": "The Hamptons School",
+  "x_coordiante": -114.148507,
+  "y_coordinate": 51.143446
+ },
+ {
+  "OBJECTID *": 255,
+  "Shape *": "Point",
+  "name": "Patrick Airlie School",
+  "x_coordiante": -113.976784,
+  "y_coordinate": 51.039911
+ },
+ {
+  "OBJECTID *": 256,
+  "Shape *": "Point",
+  "name": "St. John Paul II School",
+  "x_coordiante": -113.956199,
+  "y_coordinate": 51.10771
+ },
+ {
+  "OBJECTID *": 257,
+  "Shape *": "Point",
+  "name": "Colonel J. Fred Scott School",
+  "x_coordiante": -113.968164,
+  "y_coordinate": 51.087767
+ },
+ {
+  "OBJECTID *": 258,
+  "Shape *": "Point",
+  "name": "AADAC Youth Services",
+  "x_coordiante": -114.101682,
+  "y_coordinate": 51.061261
+ },
+ {
+  "OBJECTID *": 259,
+  "Shape *": "Point",
+  "name": "Branton School",
+  "x_coordiante": -114.109031,
+  "y_coordinate": 51.071247
+ },
+ {
+  "OBJECTID *": 260,
+  "Shape *": "Point",
+  "name": "Our Lady of Peace Elementary Junior High School",
+  "x_coordiante": -114.08771,
+  "y_coordinate": 50.918485
+ },
+ {
+  "OBJECTID *": 261,
+  "Shape *": "Point",
+  "name": "Bowness High School",
+  "x_coordiante": -114.200251,
+  "y_coordinate": 51.093175
+ },
+ {
+  "OBJECTID *": 262,
+  "Shape *": "Point",
+  "name": "Annie Gale School",
+  "x_coordiante": -113.968943,
+  "y_coordinate": 51.089073
+ },
+ {
+  "OBJECTID *": 263,
+  "Shape *": "Point",
+  "name": "Colonel Macleod School",
+  "x_coordiante": -114.047645,
+  "y_coordinate": 51.066183
+ },
+ {
+  "OBJECTID *": 264,
+  "Shape *": "Point",
+  "name": "Buchanan School",
+  "x_coordiante": -114.063148,
+  "y_coordinate": 51.08563
+ },
+ {
+  "OBJECTID *": 265,
+  "Shape *": "Point",
+  "name": "Guardian Angel School",
+  "x_coordiante": -114.216465,
+  "y_coordinate": 51.040629
+ },
+ {
+  "OBJECTID *": 266,
+  "Shape *": "Point",
+  "name": "Ahmadiyya Muslim School",
+  "x_coordiante": -113.971264,
+  "y_coordinate": 51.101835
+ },
+ {
+  "OBJECTID *": 267,
+  "Shape *": "Point",
+  "name": "St. John Henry Newman School",
+  "x_coordiante": -113.988858,
+  "y_coordinate": 50.907339
+ },
+ {
+  "OBJECTID *": 268,
+  "Shape *": "Point",
+  "name": "Penbrooke Meadows School",
+  "x_coordiante": -113.952189,
+  "y_coordinate": 51.041795
+ },
+ {
+  "OBJECTID *": 269,
+  "Shape *": "Point",
+  "name": "Our Lady of the Assumption School",
+  "x_coordiante": -114.19135,
+  "y_coordinate": 51.0833
+ },
+ {
+  "OBJECTID *": 270,
+  "Shape *": "Point",
+  "name": "Banbury Crossroads School",
+  "x_coordiante": -114.119039,
+  "y_coordinate": 51.019287
+ },
+ {
+  "OBJECTID *": 271,
+  "Shape *": "Point",
+  "name": "Prairie Sky School",
+  "x_coordiante": -113.95689,
+  "y_coordinate": 51.162133
+ },
+ {
+  "OBJECTID *": 272,
+  "Shape *": "Point",
+  "name": "Calgary Chinese Private School",
+  "x_coordiante": -114.064288,
+  "y_coordinate": 51.051615
+ },
+ {
+  "OBJECTID *": 273,
+  "Shape *": "Point",
+  "name": "Radisson Park School",
+  "x_coordiante": -113.992233,
+  "y_coordinate": 51.046161
+ },
+ {
+  "OBJECTID *": 274,
+  "Shape *": "Point",
+  "name": "Marshall Springs School",
+  "x_coordiante": -114.1123,
+  "y_coordinate": 50.911445
+ },
+ {
+  "OBJECTID *": 275,
+  "Shape *": "Point",
+  "name": "Horizon Heritage Arabic School",
+  "x_coordiante": -114.139814,
+  "y_coordinate": 51.039674
+ },
+ {
+  "OBJECTID *": 276,
+  "Shape *": "Point",
+  "name": "Rundle College Junior Senior High",
+  "x_coordiante": -114.193922,
+  "y_coordinate": 51.036894
+ },
+ {
+  "OBJECTID *": 277,
+  "Shape *": "Point",
+  "name": "Queen Elizabeth School",
+  "x_coordiante": -114.101961,
+  "y_coordinate": 51.055458
+ },
+ {
+  "OBJECTID *": 278,
+  "Shape *": "Point",
+  "name": "Dr. J. K. Mulloy School",
+  "x_coordiante": -114.079969,
+  "y_coordinate": 51.119225
+ },
+ {
+  "OBJECTID *": 279,
+  "Shape *": "Point",
+  "name": "Beddington Heights School",
+  "x_coordiante": -114.079393,
+  "y_coordinate": 51.131746
+ },
+ {
+  "OBJECTID *": 280,
+  "Shape *": "Point",
+  "name": "Crossing Park School",
+  "x_coordiante": -113.966324,
+  "y_coordinate": 51.115692
+ },
+ {
+  "OBJECTID *": 281,
+  "Shape *": "Point",
+  "name": "St. Angela Elementary",
+  "x_coordiante": -114.04882,
+  "y_coordinate": 51.054422
+ },
+ {
+  "OBJECTID *": 282,
+  "Shape *": "Point",
+  "name": "Apostles of Jesus",
+  "x_coordiante": -113.956513,
+  "y_coordinate": 51.158417
+ },
+ {
+  "OBJECTID *": 283,
+  "Shape *": "Point",
+  "name": "Notre Dame High School",
+  "x_coordiante": -114.065834,
+  "y_coordinate": 51.157659
+ },
+ {
+  "OBJECTID *": 284,
+  "Shape *": "Point",
+  "name": "Holy Family School",
+  "x_coordiante": -113.987864,
+  "y_coordinate": 51.045536
+ },
+ {
+  "OBJECTID *": 285,
+  "Shape *": "Point",
+  "name": "Lester B. Pearson High School",
+  "x_coordiante": -113.956398,
+  "y_coordinate": 51.07695
+ },
+ {
+  "OBJECTID *": 286,
+  "Shape *": "Point",
+  "name": "National Sport School",
+  "x_coordiante": -114.221026,
+  "y_coordinate": 51.084795
+ },
+ {
+  "OBJECTID *": 287,
+  "Shape *": "Point",
+  "name": "Grant MacEwan School",
+  "x_coordiante": -113.94295,
+  "y_coordinate": 51.106428
+ },
+ {
+  "OBJECTID *": 288,
+  "Shape *": "Point",
+  "name": "Capitol Hill School",
+  "x_coordiante": -114.103917,
+  "y_coordinate": 51.072077
+ },
+ {
+  "OBJECTID *": 289,
+  "Shape *": "Point",
+  "name": "Alex Ferguson School",
+  "x_coordiante": -114.122984,
+  "y_coordinate": 51.039364
+ },
+ {
+  "OBJECTID *": 290,
+  "Shape *": "Point",
+  "name": "Heritage Christian Academy",
+  "x_coordiante": -114.010136,
+  "y_coordinate": 51.092135
+ },
+ {
+  "OBJECTID *": 291,
+  "Shape *": "Point",
+  "name": "Cappy Smart School",
+  "x_coordiante": -113.945068,
+  "y_coordinate": 51.063693
+ },
+ {
+  "OBJECTID *": 292,
+  "Shape *": "Point",
+  "name": "Highwood School",
+  "x_coordiante": -114.076533,
+  "y_coordinate": 51.092244
+ },
+ {
+  "OBJECTID *": 293,
+  "Shape *": "Point",
+  "name": "Discovering Choices II",
+  "x_coordiante": -113.97841,
+  "y_coordinate": 51.055339
+ },
+ {
+  "OBJECTID *": 294,
+  "Shape *": "Point",
+  "name": "Woodbine School",
+  "x_coordiante": -114.128943,
+  "y_coordinate": 50.936533
+ },
+ {
+  "OBJECTID *": 295,
+  "Shape *": "Point",
+  "name": "Elboya School",
+  "x_coordiante": -114.078214,
+  "y_coordinate": 51.010883
+ },
+ {
+  "OBJECTID *": 296,
+  "Shape *": "Point",
+  "name": "St. Gregory School",
+  "x_coordiante": -114.160474,
+  "y_coordinate": 51.031137
+ },
+ {
+  "OBJECTID *": 297,
+  "Shape *": "Point",
+  "name": "Calgary German Language School Society",
+  "x_coordiante": -114.192789,
+  "y_coordinate": 51.087559
+ },
+ {
+  "OBJECTID *": 298,
+  "Shape *": "Point",
+  "name": "Acadia School",
+  "x_coordiante": -114.053927,
+  "y_coordinate": 50.967611
+ },
+ {
+  "OBJECTID *": 299,
+  "Shape *": "Point",
+  "name": "St. Monica School",
+  "x_coordiante": -114.067814,
+  "y_coordinate": 51.03677
+ },
+ {
+  "OBJECTID *": 300,
+  "Shape *": "Point",
+  "name": "Northern Lights School",
+  "x_coordiante": -114.046926,
+  "y_coordinate": 51.157616
+ },
+ {
+  "OBJECTID *": 301,
+  "Shape *": "Point",
+  "name": "Master's College",
+  "x_coordiante": -114.116546,
+  "y_coordinate": 51.015302
+ },
+ {
+  "OBJECTID *": 302,
+  "Shape *": "Point",
+  "name": "Rundle School",
+  "x_coordiante": -113.973722,
+  "y_coordinate": 51.071182
+ },
+ {
+  "OBJECTID *": 303,
+  "Shape *": "Point",
+  "name": "Monsignor E. L. Doyle Elementary School",
+  "x_coordiante": -114.216424,
+  "y_coordinate": 51.122028
+ },
+ {
+  "OBJECTID *": 304,
+  "Shape *": "Point",
+  "name": "Roland Michener School",
+  "x_coordiante": -113.9474,
+  "y_coordinate": 51.057019
+ },
+ {
+  "OBJECTID *": 305,
+  "Shape *": "Point",
+  "name": "Brentwood School",
+  "x_coordiante": -114.123858,
+  "y_coordinate": 51.090489
+ },
+ {
+  "OBJECTID *": 306,
+  "Shape *": "Point",
+  "name": "Fish Creek School",
+  "x_coordiante": -114.032811,
+  "y_coordinate": 50.901505
+ },
+ {
+  "OBJECTID *": 307,
+  "Shape *": "Point",
+  "name": "Richmond School",
+  "x_coordiante": -114.115039,
+  "y_coordinate": 51.030133
+ },
+ {
+  "OBJECTID *": 308,
+  "Shape *": "Point",
+  "name": "Delta West Academy",
+  "x_coordiante": -114.034625,
+  "y_coordinate": 51.055108
+ },
+ {
+  "OBJECTID *": 309,
+  "Shape *": "Point",
+  "name": "Auburn Bay School",
+  "x_coordiante": -113.962328,
+  "y_coordinate": 50.896755
+ },
+ {
+  "OBJECTID *": 310,
+  "Shape *": "Point",
+  "name": "BCS@Home",
+  "x_coordiante": -114.189516,
+  "y_coordinate": 51.186974
+ },
+ {
+  "OBJECTID *": 311,
+  "Shape *": "Point",
+  "name": "Divine Mercy School",
+  "x_coordiante": -113.923958,
+  "y_coordinate": 50.901557
+ },
+ {
+  "OBJECTID *": 312,
+  "Shape *": "Point",
+  "name": "West Dover School",
+  "x_coordiante": -113.990648,
+  "y_coordinate": 51.026329
+ },
+ {
+  "OBJECTID *": 313,
+  "Shape *": "Point",
+  "name": "St. Sylvester School",
+  "x_coordiante": -114.194353,
+  "y_coordinate": 51.109255
+ },
+ {
+  "OBJECTID *": 314,
+  "Shape *": "Point",
+  "name": "Thomas B Riley School",
+  "x_coordiante": -114.189052,
+  "y_coordinate": 51.087529
+ },
+ {
+  "OBJECTID *": 315,
+  "Shape *": "Point",
+  "name": "Renfrew Educational Services - Child Development Centre",
+  "x_coordiante": -114.143929,
+  "y_coordinate": 51.074765
+ },
+ {
+  "OBJECTID *": 316,
+  "Shape *": "Point",
+  "name": "CLS Lord Beaverbrook Writing Centre",
+  "x_coordiante": -114.06164,
+  "y_coordinate": 50.9731
+ },
+ {
+  "OBJECTID *": 317,
+  "Shape *": "Point",
+  "name": "Bishop Kidd School",
+  "x_coordiante": -113.992129,
+  "y_coordinate": 51.040577
+ },
+ {
+  "OBJECTID *": 318,
+  "Shape *": "Point",
+  "name": "Panorama Hills School",
+  "x_coordiante": -114.085921,
+  "y_coordinate": 51.155814
+ },
+ {
+  "OBJECTID *": 319,
+  "Shape *": "Point",
+  "name": "Sacred Heart Elementary School",
+  "x_coordiante": -114.096637,
+  "y_coordinate": 51.04092
+ },
+ {
+  "OBJECTID *": 320,
+  "Shape *": "Point",
+  "name": "Ernest Morrow School",
+  "x_coordiante": -113.964839,
+  "y_coordinate": 51.043385
+ },
+ {
+  "OBJECTID *": 321,
+  "Shape *": "Point",
+  "name": "Somerset School",
+  "x_coordiante": -114.084885,
+  "y_coordinate": 50.897406
+ },
+ {
+  "OBJECTID *": 322,
+  "Shape *": "Point",
+  "name": "Dr. Gordon Townsend School",
+  "x_coordiante": -114.148346,
+  "y_coordinate": 51.074495
+ },
+ {
+  "OBJECTID *": 323,
+  "Shape *": "Point",
+  "name": "St. Teresa of Calcutta School",
+  "x_coordiante": -114.052117,
+  "y_coordinate": 50.91442
+ },
+ {
+  "OBJECTID *": 324,
+  "Shape *": "Point",
+  "name": "Louise Dean School",
+  "x_coordiante": -114.114683,
+  "y_coordinate": 51.053151
+ },
+ {
+  "OBJECTID *": 325,
+  "Shape *": "Point",
+  "name": "St. Cyril School",
+  "x_coordiante": -114.128522,
+  "y_coordinate": 50.955494
+ },
+ {
+  "OBJECTID *": 326,
+  "Shape *": "Point",
+  "name": "CBe-learn",
+  "x_coordiante": -114.113928,
+  "y_coordinate": 51.006517
+ },
+ {
+  "OBJECTID *": 327,
+  "Shape *": "Point",
+  "name": "Dr. George Stanley School",
+  "x_coordiante": -113.978289,
+  "y_coordinate": 50.882777
+ },
+ {
+  "OBJECTID *": 328,
+  "Shape *": "Point",
+  "name": "Stanley Jones School",
+  "x_coordiante": -114.047707,
+  "y_coordinate": 51.059905
+ },
+ {
+  "OBJECTID *": 329,
+  "Shape *": "Point",
+  "name": "Almadina Language Charter Academy, Ogden Campus",
+  "x_coordiante": -114.012123,
+  "y_coordinate": 50.984497
+ },
+ {
+  "OBJECTID *": 330,
+  "Shape *": "Point",
+  "name": "Ecole de la Rose Sauvage",
+  "x_coordiante": -114.070303,
+  "y_coordinate": 51.074845
+ },
+ {
+  "OBJECTID *": 331,
+  "Shape *": "Point",
+  "name": "Eric Harvie School",
+  "x_coordiante": -114.251111,
+  "y_coordinate": 51.128042
+ },
+ {
+  "OBJECTID *": 332,
+  "Shape *": "Point",
+  "name": "Webber Academy",
+  "x_coordiante": -114.225022,
+  "y_coordinate": 51.044122
+ },
+ {
+  "OBJECTID *": 333,
+  "Shape *": "Point",
+  "name": "All Boys Alternative Program",
+  "x_coordiante": -114.136226,
+  "y_coordinate": 51.02118
+ },
+ {
+  "OBJECTID *": 334,
+  "Shape *": "Point",
+  "name": "F. E. Osborne School",
+  "x_coordiante": -114.162965,
+  "y_coordinate": 51.092812
+ },
+ {
+  "OBJECTID *": 335,
+  "Shape *": "Point",
+  "name": "Light of Christ Catholic School",
+  "x_coordiante": -113.941273,
+  "y_coordinate": 51.129537
+ },
+ {
+  "OBJECTID *": 336,
+  "Shape *": "Point",
+  "name": "Altadore School",
+  "x_coordiante": -114.099733,
+  "y_coordinate": 51.014003
+ },
+ {
+  "OBJECTID *": 337,
+  "Shape *": "Point",
+  "name": "St. Rose of Lima Junior High School",
+  "x_coordiante": -113.962279,
+  "y_coordinate": 51.075801
+ },
+ {
+  "OBJECTID *": 338,
+  "Shape *": "Point",
+  "name": "St. Joan of Arc Elementary\/Junior High School",
+  "x_coordiante": -114.20724,
+  "y_coordinate": 51.057125
+ },
+ {
+  "OBJECTID *": 339,
+  "Shape *": "Point",
+  "name": "Chaparral School",
+  "x_coordiante": -114.044968,
+  "y_coordinate": 50.882964
+ },
+ {
+  "OBJECTID *": 340,
+  "Shape *": "Point",
+  "name": "Bishop Pinkham School",
+  "x_coordiante": -114.130699,
+  "y_coordinate": 50.997263
+ },
+ {
+  "OBJECTID *": 341,
+  "Shape *": "Point",
+  "name": "Calgary Islamic School, Akram Jomaa Campus",
+  "x_coordiante": -114.000477,
+  "y_coordinate": 51.08759
+ },
+ {
+  "OBJECTID *": 342,
+  "Shape *": "Point",
+  "name": "South Middle School Campus",
+  "x_coordiante": -114.053305,
+  "y_coordinate": 50.97529
+ },
+ {
+  "OBJECTID *": 343,
+  "Shape *": "Point",
+  "name": "Colonel Sanders School",
+  "x_coordiante": -114.07477,
+  "y_coordinate": 51.099814
+ },
+ {
+  "OBJECTID *": 344,
+  "Shape *": "Point",
+  "name": "Chris Akkerman School",
+  "x_coordiante": -113.963011,
+  "y_coordinate": 51.063757
+ },
+ {
+  "OBJECTID *": 345,
+  "Shape *": "Point",
+  "name": "Scenic Acres School",
+  "x_coordiante": -114.215657,
+  "y_coordinate": 51.120089
+ },
+ {
+  "OBJECTID *": 346,
+  "Shape *": "Point",
+  "name": "Ecole St. Pius X School",
+  "x_coordiante": -114.103406,
+  "y_coordinate": 51.072972
+ },
+ {
+  "OBJECTID *": 347,
+  "Shape *": "Point",
+  "name": "Asasa Academy",
+  "x_coordiante": -114.088022,
+  "y_coordinate": 51.087173
+ },
+ {
+  "OBJECTID *": 348,
+  "Shape *": "Point",
+  "name": "Northwest Elementary Campus",
+  "x_coordiante": -114.078059,
+  "y_coordinate": 51.093173
+ },
+ {
+  "OBJECTID *": 349,
+  "Shape *": "Point",
+  "name": "St. Bernadette School",
+  "x_coordiante": -114.009198,
+  "y_coordinate": 50.990391
+ },
+ {
+  "OBJECTID *": 350,
+  "Shape *": "Point",
+  "name": "Bowcroft School",
+  "x_coordiante": -114.192789,
+  "y_coordinate": 51.087559
+ },
+ {
+  "OBJECTID *": 351,
+  "Shape *": "Point",
+  "name": "Huntington Hills School",
+  "x_coordiante": -114.077457,
+  "y_coordinate": 51.112209
+ },
+ {
+  "OBJECTID *": 352,
+  "Shape *": "Point",
+  "name": "Our Lady of the Rosary School",
+  "x_coordiante": -113.968206,
+  "y_coordinate": 50.874429
+ },
+ {
+  "OBJECTID *": 353,
+  "Shape *": "Point",
+  "name": "CLS Alternative Site",
+  "x_coordiante": -113.948846,
+  "y_coordinate": 51.121981
+ },
+ {
+  "OBJECTID *": 354,
+  "Shape *": "Point",
+  "name": "Our Lady of the Rockies High School",
+  "x_coordiante": -114.078741,
+  "y_coordinate": 50.975438
+ },
+ {
+  "OBJECTID *": 355,
+  "Shape *": "Point",
+  "name": "Westmount Mid\/High School",
+  "x_coordiante": -114.132513,
+  "y_coordinate": 51.071048
+ },
+ {
+  "OBJECTID *": 356,
+  "Shape *": "Point",
+  "name": "St. Kateri Tekakwitha School",
+  "x_coordiante": -113.927661,
+  "y_coordinate": 51.061854
+ },
+ {
+  "OBJECTID *": 357,
+  "Shape *": "Point",
+  "name": "William D. Pratt School",
+  "x_coordiante": -114.224093,
+  "y_coordinate": 51.149361
+ },
+ {
+  "OBJECTID *": 358,
+  "Shape *": "Point",
+  "name": "Yufeng Chinese School",
+  "x_coordiante": -114.183469,
+  "y_coordinate": 51.146094
+ },
+ {
+  "OBJECTID *": 359,
+  "Shape *": "Point",
+  "name": "Alberta Chung Wah School",
+  "x_coordiante": -114.061738,
+  "y_coordinate": 51.049565
+ },
+ {
+  "OBJECTID *": 360,
+  "Shape *": "Point",
+  "name": "Jack James High School",
+  "x_coordiante": -113.960371,
+  "y_coordinate": 51.044569
+ },
+ {
+  "OBJECTID *": 361,
+  "Shape *": "Point",
+  "name": "Holy Angels School",
+  "x_coordiante": -114.010018,
+  "y_coordinate": 50.974095
+ },
+ {
+  "OBJECTID *": 362,
+  "Shape *": "Point",
+  "name": "Rideau Park School",
+  "x_coordiante": -114.075564,
+  "y_coordinate": 51.025277
+ },
+ {
+  "OBJECTID *": 363,
+  "Shape *": "Point",
+  "name": "Glenmore Christian Academy Elementary",
+  "x_coordiante": -114.115239,
+  "y_coordinate": 50.903979
+ },
+ {
+  "OBJECTID *": 364,
+  "Shape *": "Point",
+  "name": "Abbeydale School",
+  "x_coordiante": -113.929849,
+  "y_coordinate": 51.056625
+ },
+ {
+  "OBJECTID *": 365,
+  "Shape *": "Point",
+  "name": "Maria Montessori School",
+  "x_coordiante": -114.123583,
+  "y_coordinate": 51.06271
+ },
+ {
+  "OBJECTID *": 366,
+  "Shape *": "Point",
+  "name": "Taradale School",
+  "x_coordiante": -113.937755,
+  "y_coordinate": 51.121253
+ },
+ {
+  "OBJECTID *": 367,
+  "Shape *": "Point",
+  "name": "The Chinese Academy",
+  "x_coordiante": -114.070131,
+  "y_coordinate": 51.112797
+ },
+ {
+  "OBJECTID *": 368,
+  "Shape *": "Point",
+  "name": "Mount View School",
+  "x_coordiante": -114.052062,
+  "y_coordinate": 51.069625
+ },
+ {
+  "OBJECTID *": 369,
+  "Shape *": "Point",
+  "name": "Access Academy",
+  "x_coordiante": -114.119039,
+  "y_coordinate": 51.019287
+ },
+ {
+  "OBJECTID *": 370,
+  "Shape *": "Point",
+  "name": "W. O. Mitchell School",
+  "x_coordiante": -114.194288,
+  "y_coordinate": 51.113691
+ },
+ {
+  "OBJECTID *": 371,
+  "Shape *": "Point",
+  "name": "Christ the King Catholic School",
+  "x_coordiante": -113.97597,
+  "y_coordinate": 50.887837
+ },
+ {
+  "OBJECTID *": 372,
+  "Shape *": "Point",
+  "name": "Cedarbrae School",
+  "x_coordiante": -114.133184,
+  "y_coordinate": 50.958399
+ },
+ {
+  "OBJECTID *": 373,
+  "Shape *": "Point",
+  "name": "H. D. Cartwright School",
+  "x_coordiante": -114.161327,
+  "y_coordinate": 51.112648
+ },
+ {
+  "OBJECTID *": 374,
+  "Shape *": "Point",
+  "name": "G. W. Skene School",
+  "x_coordiante": -113.945221,
+  "y_coordinate": 51.045625
+ },
+ {
+  "OBJECTID *": 375,
+  "Shape *": "Point",
+  "name": "William Aberhart High School",
+  "x_coordiante": -114.115337,
+  "y_coordinate": 51.078669
+ },
+ {
+  "OBJECTID *": 376,
+  "Shape *": "Point",
+  "name": "Bishop Carroll High School",
+  "x_coordiante": -114.120791,
+  "y_coordinate": 51.012694
+ },
+ {
+  "OBJECTID *": 377,
+  "Shape *": "Point",
+  "name": "Earl Grey School",
+  "x_coordiante": -114.082654,
+  "y_coordinate": 51.030875
+ },
+ {
+  "OBJECTID *": 378,
+  "Shape *": "Point",
+  "name": "Calgary Christian School",
+  "x_coordiante": -114.158951,
+  "y_coordinate": 51.027468
+ },
+ {
+  "OBJECTID *": 379,
+  "Shape *": "Point",
+  "name": "Buffalo Rubbing Stone School",
+  "x_coordiante": -114.087368,
+  "y_coordinate": 51.168352
+ },
+ {
+  "OBJECTID *": 380,
+  "Shape *": "Point",
+  "name": "Calgary Christian High School",
+  "x_coordiante": -114.158941,
+  "y_coordinate": 51.029763
+ },
+ {
+  "OBJECTID *": 381,
+  "Shape *": "Point",
+  "name": "Haultain Memorial School",
+  "x_coordiante": -114.023319,
+  "y_coordinate": 50.939544
+ },
+ {
+  "OBJECTID *": 382,
+  "Shape *": "Point",
+  "name": "West View School",
+  "x_coordiante": -114.208009,
+  "y_coordinate": 51.165537
+ },
+ {
+  "OBJECTID *": 383,
+  "Shape *": "Point",
+  "name": "Father Doucet School",
+  "x_coordiante": -114.085169,
+  "y_coordinate": 50.909344
+ },
+ {
+  "OBJECTID *": 384,
+  "Shape *": "Point",
+  "name": "St. Albert the Great",
+  "x_coordiante": -113.960076,
+  "y_coordinate": 50.92151
+ },
+ {
+  "OBJECTID *": 385,
+  "Shape *": "Point",
+  "name": "William Roper Hull School",
+  "x_coordiante": -114.113833,
+  "y_coordinate": 50.948363
+ },
+ {
+  "OBJECTID *": 386,
+  "Shape *": "Point",
+  "name": "Calgary Islamic School, Omar Bin Al-Khattab Campus",
+  "x_coordiante": -113.99381,
+  "y_coordinate": 51.050745
+ },
+ {
+  "OBJECTID *": 387,
+  "Shape *": "Point",
+  "name": "Centennial High School",
+  "x_coordiante": -114.053355,
+  "y_coordinate": 50.90611
+ },
+ {
+  "OBJECTID *": 388,
+  "Shape *": "Point",
+  "name": "Don Bosco School",
+  "x_coordiante": -114.018253,
+  "y_coordinate": 50.931301
+ },
+ {
+  "OBJECTID *": 389,
+  "Shape *": "Point",
+  "name": "Mount Royal School",
+  "x_coordiante": -114.09391,
+  "y_coordinate": 51.034722
+ },
+ {
+  "OBJECTID *": 390,
+  "Shape *": "Point",
+  "name": "Ethel M. Johnson School",
+  "x_coordiante": -114.089039,
+  "y_coordinate": 50.955473
+ },
+ {
+  "OBJECTID *": 391,
+  "Shape *": "Point",
+  "name": "Wilma Hansen School",
+  "x_coordiante": -114.01887,
+  "y_coordinate": 50.932287
+ },
+ {
+  "OBJECTID *": 392,
+  "Shape *": "Point",
+  "name": "St. James Elementary Junior High School",
+  "x_coordiante": -114.113668,
+  "y_coordinate": 51.001142
+ },
+ {
+  "OBJECTID *": 393,
+  "Shape *": "Point",
+  "name": "Calgary Girls Charter School - Bel Aire Campus",
+  "x_coordiante": -114.085099,
+  "y_coordinate": 50.998409
+ },
+ {
+  "OBJECTID *": 394,
+  "Shape *": "Point",
+  "name": "Westmount Elementary School",
+  "x_coordiante": -114.131428,
+  "y_coordinate": 51.058148
+ },
+ {
+  "OBJECTID *": 395,
+  "Shape *": "Point",
+  "name": "Northeast Elementary Campus",
+  "x_coordiante": -114.011291,
+  "y_coordinate": 51.064194
+ },
+ {
+  "OBJECTID *": 396,
+  "Shape *": "Point",
+  "name": "Wildwood School",
+  "x_coordiante": -114.152117,
+  "y_coordinate": 51.051589
+ },
+ {
+  "OBJECTID *": 397,
+  "Shape *": "Point",
+  "name": "Samuel W. Shaw School",
+  "x_coordiante": -114.087376,
+  "y_coordinate": 50.908132
+ },
+ {
+  "OBJECTID *": 398,
+  "Shape *": "Point",
+  "name": "Alberta Ballet School",
+  "x_coordiante": -114.082058,
+  "y_coordinate": 51.042251
+ },
+ {
+  "OBJECTID *": 399,
+  "Shape *": "Point",
+  "name": "St. Dominic School",
+  "x_coordiante": -114.154244,
+  "y_coordinate": 51.109559
+ },
+ {
+  "OBJECTID *": 400,
+  "Shape *": "Point",
+  "name": "Kenneth D. Taylor School",
+  "x_coordiante": -114.117801,
+  "y_coordinate": 51.165096
+ },
+ {
+  "OBJECTID *": 401,
+  "Shape *": "Point",
+  "name": "Alternative High School",
+  "x_coordiante": -114.10996,
+  "y_coordinate": 51.009659
+ },
+ {
+  "OBJECTID *": 402,
+  "Shape *": "Point",
+  "name": "Edgemont School",
+  "x_coordiante": -114.143579,
+  "y_coordinate": 51.128889
+ },
+ {
+  "OBJECTID *": 403,
+  "Shape *": "Point",
+  "name": "Canadian Montessori School",
+  "x_coordiante": -114.088262,
+  "y_coordinate": 50.990745
+ },
+ {
+  "OBJECTID *": 404,
+  "Shape *": "Point",
+  "name": "Le Roi Daniels School",
+  "x_coordiante": -114.057956,
+  "y_coordinate": 50.983858
+ },
+ {
+  "OBJECTID *": 405,
+  "Shape *": "Point",
+  "name": "St. Jude School",
+  "x_coordiante": -114.133437,
+  "y_coordinate": 50.942952
+ },
+ {
+  "OBJECTID *": 406,
+  "Shape *": "Point",
+  "name": "St. Jerome Elementary School",
+  "x_coordiante": -114.079283,
+  "y_coordinate": 51.157711
+ },
+ {
+  "OBJECTID *": 407,
+  "Shape *": "Point",
+  "name": "Al-Amal Academy",
+  "x_coordiante": -114.207543,
+  "y_coordinate": 51.150732
+ },
+ {
+  "OBJECTID *": 408,
+  "Shape *": "Point",
+  "name": "Terrace Road School",
+  "x_coordiante": -114.157932,
+  "y_coordinate": 51.074502
+ },
+ {
+  "OBJECTID *": 409,
+  "Shape *": "Point",
+  "name": "Battalion Park School",
+  "x_coordiante": -114.181901,
+  "y_coordinate": 51.023567
+ },
+ {
+  "OBJECTID *": 410,
+  "Shape *": "Point",
+  "name": "Henry Wise Wood High School",
+  "x_coordiante": -114.084684,
+  "y_coordinate": 50.986341
+ },
+ {
+  "OBJECTID *": 411,
+  "Shape *": "Point",
+  "name": "David Thompson School",
+  "x_coordiante": -114.054651,
+  "y_coordinate": 50.969404
+ },
+ {
+  "OBJECTID *": 412,
+  "Shape *": "Point",
+  "name": "Glenmore Christian Academy Junior High",
+  "x_coordiante": -114.115239,
+  "y_coordinate": 50.903979
+ },
+ {
+  "OBJECTID *": 413,
+  "Shape *": "Point",
+  "name": "Calgary Home Education",
+  "x_coordiante": -114.074444,
+  "y_coordinate": 51.004704
+ },
+ {
+  "OBJECTID *": 414,
+  "Shape *": "Point",
+  "name": "St. Josephine Bakhita School",
+  "x_coordiante": -114.101645,
+  "y_coordinate": 51.176796
+ },
+ {
+  "OBJECTID *": 415,
+  "Shape *": "Point",
+  "name": "St. Rita School",
+  "x_coordiante": -114.181753,
+  "y_coordinate": 51.119866
+ },
+ {
+  "OBJECTID *": 416,
+  "Shape *": "Point",
+  "name": "Columbia College",
+  "x_coordiante": -114.018022,
+  "y_coordinate": 51.057002
+ },
+ {
+  "OBJECTID *": 417,
+  "Shape *": "Point",
+  "name": "West Ridge School",
+  "x_coordiante": -114.214242,
+  "y_coordinate": 51.058489
+ },
+ {
+  "OBJECTID *": 418,
+  "Shape *": "Point",
+  "name": "Dr. E. P. Scarlett High School",
+  "x_coordiante": -114.087972,
+  "y_coordinate": 50.948787
+ },
+ {
+  "OBJECTID *": 419,
+  "Shape *": "Point",
+  "name": "Elbow Park School",
+  "x_coordiante": -114.082197,
+  "y_coordinate": 51.019577
+ },
+ {
+  "OBJECTID *": 420,
+  "Shape *": "Point",
+  "name": "FFCA High School Campus",
+  "x_coordiante": -114.151928,
+  "y_coordinate": 51.069581
+ },
+ {
+  "OBJECTID *": 421,
+  "Shape *": "Point",
+  "name": "Rundle College Academy",
+  "x_coordiante": -114.099773,
+  "y_coordinate": 51.015297
+ },
+ {
+  "OBJECTID *": 422,
+  "Shape *": "Point",
+  "name": "St. Martha School",
+  "x_coordiante": -113.945636,
+  "y_coordinate": 51.056543
+ },
+ {
+  "OBJECTID *": 423,
+  "Shape *": "Point",
+  "name": "Nellie McClung School",
+  "x_coordiante": -114.113014,
+  "y_coordinate": 50.968495
+ },
+ {
+  "OBJECTID *": 424,
+  "Shape *": "Point",
+  "name": "Westgate School",
+  "x_coordiante": -114.1592,
+  "y_coordinate": 51.044488
+ },
+ {
+  "OBJECTID *": 425,
+  "Shape *": "Point",
+  "name": "Renert School",
+  "x_coordiante": -114.202837,
+  "y_coordinate": 51.151837
+ },
+ {
+  "OBJECTID *": 426,
+  "Shape *": "Point",
+  "name": "Madeleine D' Houet Bilingual School",
+  "x_coordiante": -114.112238,
+  "y_coordinate": 51.053194
+ },
+ {
+  "OBJECTID *": 427,
+  "Shape *": "Point",
+  "name": "Marlborough School",
+  "x_coordiante": -113.9655,
+  "y_coordinate": 51.056084
+ },
+ {
+  "OBJECTID *": 428,
+  "Shape *": "Point",
+  "name": "St. Augustine Elementary Junior High School",
+  "x_coordiante": -114.080777,
+  "y_coordinate": 50.991114
+ },
+ {
+  "OBJECTID *": 429,
+  "Shape *": "Point",
+  "name": "Colonel Irvine School",
+  "x_coordiante": -114.079932,
+  "y_coordinate": 51.092437
+ },
+ {
+  "OBJECTID *": 430,
+  "Shape *": "Point",
+  "name": "Sibylla Kiddle School",
+  "x_coordiante": -113.970802,
+  "y_coordinate": 50.877862
+ },
+ {
+  "OBJECTID *": 431,
+  "Shape *": "Point",
+  "name": "St. Mary's High School",
+  "x_coordiante": -114.064018,
+  "y_coordinate": 51.036614
+ },
+ {
+  "OBJECTID *": 432,
+  "Shape *": "Point",
+  "name": "Project Trust",
+  "x_coordiante": -114.08284,
+  "y_coordinate": 51.07207
+ },
+ {
+  "OBJECTID *": 433,
+  "Shape *": "Point",
+  "name": "Guy Weadick School",
+  "x_coordiante": -113.952975,
+  "y_coordinate": 51.086988
+ },
+ {
+  "OBJECTID *": 434,
+  "Shape *": "Point",
+  "name": "Falconridge School",
+  "x_coordiante": -113.945433,
+  "y_coordinate": 51.099364
+ },
+ {
+  "OBJECTID *": 435,
+  "Shape *": "Point",
+  "name": "Italian School of Calgary",
+  "x_coordiante": -114.053147,
+  "y_coordinate": 51.053746
+ },
+ {
+  "OBJECTID *": 436,
+  "Shape *": "Point",
+  "name": "Fairview School",
+  "x_coordiante": -114.05945,
+  "y_coordinate": 50.983986
+ },
+ {
+  "OBJECTID *": 437,
+  "Shape *": "Point",
+  "name": "Louis Riel School",
+  "x_coordiante": -114.132258,
+  "y_coordinate": 50.966731
+ },
+ {
+  "OBJECTID *": 438,
+  "Shape *": "Point",
+  "name": "Vista Heights School",
+  "x_coordiante": -114.017074,
+  "y_coordinate": 51.073887
+ },
+ {
+  "OBJECTID *": 439,
+  "Shape *": "Point",
+  "name": "St. Vincent De Paul Elementary Junior High School",
+  "x_coordiante": -114.1598,
+  "y_coordinate": 51.093145
+ },
+ {
+  "OBJECTID *": 440,
+  "Shape *": "Point",
+  "name": "Terry Fox School",
+  "x_coordiante": -113.945104,
+  "y_coordinate": 51.104657
+ },
+ {
+  "OBJECTID *": 441,
+  "Shape *": "Point",
+  "name": "St. Basil Elementary\/Junior High School",
+  "x_coordiante": -114.250317,
+  "y_coordinate": 51.119418
+ },
+ {
+  "OBJECTID *": 442,
+  "Shape *": "Point",
+  "name": "Bayside School",
+  "x_coordiante": -113.947609,
+  "y_coordinate": 50.888223
+ },
+ {
+  "OBJECTID *": 443,
+  "Shape *": "Point",
+  "name": "Lake Bonavista School",
+  "x_coordiante": -114.040924,
+  "y_coordinate": 50.944541
+ },
+ {
+  "OBJECTID *": 444,
+  "Shape *": "Point",
+  "name": "Bearspaw Christian School & College",
+  "x_coordiante": -114.189516,
+  "y_coordinate": 51.186974
+ },
+ {
+  "OBJECTID *": 445,
+  "Shape *": "Point",
+  "name": "STEM Innovation Academy Middle School",
+  "x_coordiante": -114.088479,
+  "y_coordinate": 50.96887
+ },
+ {
+  "OBJECTID *": 446,
+  "Shape *": "Point",
+  "name": "Prince of Peace School",
+  "x_coordiante": -113.949842,
+  "y_coordinate": 50.893264
+ },
+ {
+  "OBJECTID *": 447,
+  "Shape *": "Point",
+  "name": "Copperfield School",
+  "x_coordiante": -113.928806,
+  "y_coordinate": 50.914832
+ },
+ {
+  "OBJECTID *": 448,
+  "Shape *": "Point",
+  "name": "Captain Nichola Goddard School",
+  "x_coordiante": -114.088679,
+  "y_coordinate": 51.162451
+ },
+ {
+  "OBJECTID *": 449,
+  "Shape *": "Point",
+  "name": "Father Scollen School",
+  "x_coordiante": -113.941962,
+  "y_coordinate": 51.09302
+ },
+ {
+  "OBJECTID *": 450,
+  "Shape *": "Point",
+  "name": "St. Bonaventure School",
+  "x_coordiante": -114.047181,
+  "y_coordinate": 50.931737
+ },
+ {
+  "OBJECTID *": 451,
+  "Shape *": "Point",
+  "name": "John G Diefenbaker High School",
+  "x_coordiante": -114.070131,
+  "y_coordinate": 51.112797
+ },
+ {
+  "OBJECTID *": 452,
+  "Shape *": "Point",
+  "name": "St. Michael School",
+  "x_coordiante": -114.151578,
+  "y_coordinate": 51.044785
+ },
+ {
+  "OBJECTID *": 453,
+  "Shape *": "Point",
+  "name": "Blessed Marie-Rose",
+  "x_coordiante": -114.148324,
+  "y_coordinate": 51.159889
+ },
+ {
+  "OBJECTID *": 454,
+  "Shape *": "Point",
+  "name": "CLS Lord Shaughnessy Writing Centre",
+  "x_coordiante": -114.113928,
+  "y_coordinate": 51.006517
+ },
+ {
+  "OBJECTID *": 455,
+  "Shape *": "Point",
+  "name": "Rosemont School",
+  "x_coordiante": -114.092373,
+  "y_coordinate": 51.077871
+ },
+ {
+  "OBJECTID *": 456,
+  "Shape *": "Point",
+  "name": "Calgary Waldorf School",
+  "x_coordiante": -114.218326,
+  "y_coordinate": 51.072349
+ },
+ {
+  "OBJECTID *": 457,
+  "Shape *": "Point",
+  "name": "W.H.Cushing Workplace School",
+  "x_coordiante": -114.064913,
+  "y_coordinate": 51.046824
+ },
+ {
+  "OBJECTID *": 458,
+  "Shape *": "Point",
+  "name": "Catherine Nichols Gunn School",
+  "x_coordiante": -114.057895,
+  "y_coordinate": 51.111644
+ },
+ {
+  "OBJECTID *": 459,
+  "Shape *": "Point",
+  "name": "Christine Meikle School",
+  "x_coordiante": -114.161066,
+  "y_coordinate": 51.084545
+ },
+ {
+  "OBJECTID *": 460,
+  "Shape *": "Point",
+  "name": "Maria Montessori School - cSPACE King Edward Location",
+  "x_coordiante": -114.100883,
+  "y_coordinate": 51.02727
+ },
+ {
+  "OBJECTID *": 461,
+  "Shape *": "Point",
+  "name": "Sainte Marguerite Bourgeoys",
+  "x_coordiante": -114.121583,
+  "y_coordinate": 51.011137
+ },
+ {
+  "OBJECTID *": 462,
+  "Shape *": "Point",
+  "name": "Captain John Palliser School",
+  "x_coordiante": -114.136016,
+  "y_coordinate": 51.096365
+ },
+ {
+  "OBJECTID *": 463,
+  "Shape *": "Point",
+  "name": "Simons Valley School",
+  "x_coordiante": -114.107326,
+  "y_coordinate": 51.139678
+ },
+ {
+  "OBJECTID *": 464,
+  "Shape *": "Point",
+  "name": "North Point School - DSEPS",
+  "x_coordiante": -114.117484,
+  "y_coordinate": 51.032556
+ },
+ {
+  "OBJECTID *": 465,
+  "Shape *": "Point",
+  "name": "St. Alphonsus Elementary Junior High School",
+  "x_coordiante": -114.041415,
+  "y_coordinate": 51.064734
+ },
+ {
+  "OBJECTID *": 466,
+  "Shape *": "Point",
+  "name": "Colonel Walker School",
+  "x_coordiante": -114.019035,
+  "y_coordinate": 51.034362
+ },
+ {
+  "OBJECTID *": 467,
+  "Shape *": "Point",
+  "name": "Emily Follensbee School",
+  "x_coordiante": -114.095575,
+  "y_coordinate": 51.007636
+ },
+ {
+  "OBJECTID *": 468,
+  "Shape *": "Point",
+  "name": "Queen Elizabeth High School",
+  "x_coordiante": -114.101916,
+  "y_coordinate": 51.056202
+ },
+ {
+  "OBJECTID *": 469,
+  "Shape *": "Point",
+  "name": "Glendale School",
+  "x_coordiante": -114.14558,
+  "y_coordinate": 51.032467
+ },
+ {
+  "OBJECTID *": 470,
+  "Shape *": "Point",
+  "name": "Robert Warren School",
+  "x_coordiante": -114.084817,
+  "y_coordinate": 50.942522
+ },
+ {
+  "OBJECTID *": 471,
+  "Shape *": "Point",
+  "name": "St. Anne Academic Centre",
+  "x_coordiante": -114.038918,
+  "y_coordinate": 51.035139
+ },
+ {
+  "OBJECTID *": 472,
+  "Shape *": "Point",
+  "name": "Dr. Martha Cohen School",
+  "x_coordiante": -113.944732,
+  "y_coordinate": 50.917099
+ },
+ {
+  "OBJECTID *": 473,
+  "Shape *": "Point",
+  "name": "Nelson Mandela High School",
+  "x_coordiante": -113.948846,
+  "y_coordinate": 51.121981
+ },
+ {
+  "OBJECTID *": 474,
+  "Shape *": "Point",
+  "name": "Monsignor J. J. O'Brien",
+  "x_coordiante": -114.103859,
+  "y_coordinate": 50.901566
+ },
+ {
+  "OBJECTID *": 475,
+  "Shape *": "Point",
+  "name": "Clear Water Academy",
+  "x_coordiante": -114.123093,
+  "y_coordinate": 51.018877
+ },
+ {
+  "OBJECTID *": 476,
+  "Shape *": "Point",
+  "name": "Douglasdale School",
+  "x_coordiante": -113.982649,
+  "y_coordinate": 50.935263
+ },
+ {
+  "OBJECTID *": 477,
+  "Shape *": "Point",
+  "name": "Douglas Harkness School",
+  "x_coordiante": -113.946045,
+  "y_coordinate": 51.073844
+ },
+ {
+  "OBJECTID *": 478,
+  "Shape *": "Point",
+  "name": "Master's Academy",
+  "x_coordiante": -114.116546,
+  "y_coordinate": 51.015302
+ },
+ {
+  "OBJECTID *": 479,
+  "Shape *": "Point",
+  "name": "Bishop McNally High School",
+  "x_coordiante": -113.953706,
+  "y_coordinate": 51.10303
+ },
+ {
+  "OBJECTID *": 480,
+  "Shape *": "Point",
+  "name": "Glamorgan School",
+  "x_coordiante": -114.145398,
+  "y_coordinate": 51.01538
+ },
+ {
+  "OBJECTID *": 481,
+  "Shape *": "Point",
+  "name": "Deer Run School",
+  "x_coordiante": -114.009455,
+  "y_coordinate": 50.921555
+ }
+]

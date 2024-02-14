@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-diceprime-dev-230154-authRole",
+      "UnauthRoleArn": "arn:aws:iam::633298405609:role/amplify-diceprime-dev-230154-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::633298405609:role/amplify-diceprime-dev-230154-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-diceprime-dev-230154-deployment",
+      "UnauthRoleName": "amplify-diceprime-dev-230154-unauthRole",
+      "StackName": "amplify-diceprime-dev-230154",
+      "StackId": "arn:aws:cloudformation:us-east-1:633298405609:stack/amplify-diceprime-dev-230154/8baefe20-21d7-11ed-ad74-12f6dd596103",
+      "AmplifyAppId": "dkwdbyqvnstz2"
+    },
+    "categories": {
+      "auth": {
+        "diceprime19f1d5f6": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d10s8cibaoaj5i",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

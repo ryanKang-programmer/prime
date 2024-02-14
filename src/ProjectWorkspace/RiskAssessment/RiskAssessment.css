@@ -1,0 +1,51 @@
+li {
+    text-decoration: none;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.scroll {
+    justify-content:start;
+    /* padding-top: 500px; */
+    height: calc(50% - 5px);
+    height: 80vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+.history {
+    margin-top: 10px;
+}
+
+.riskAssessmentFlex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.riskAssessmentFlex-scroll {
+    display: flex;
+    flex-direction: column;
+    padding-right: 2vh;
+    scroll-behavior: smooth;
+}
+
+#section-1 {
+    margin-top: 15px;
+}
+
+#section-2 {
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,7 @@
+/* .recharts-surface {
+    margin-left: -3vw;
+} */
+
+.graph:hover {
+    cursor: move !important;
+}

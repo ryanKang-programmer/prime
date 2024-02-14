@@ -1,0 +1,72 @@
+.Table {
+    width:100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* max-height: 300px; */
+    overflow-y: auto;
+    overflow-x: auto;
+    /* margin-right: 2vw;
+    margin-left: 2vw; */
+    overscroll-behavior: auto;
+    min-width: 100px;
+  }
+
+  #t {
+    padding-left: 110px;
+  }
+
+  table {
+    /* border: 1px solid black; */
+    width: 100%;
+  }
+    
+  th {
+    border-bottom: 1px solid black;
+    text-align: center;
+    /* padding-left: 5px;
+    padding-right: 5px; */
+  }
+    
+  td {
+    /* padding-left: 5px;
+    padding-right: 5px; */
+    text-align: center;
+  }
+
+.pipelineOverview-table {
+  padding-top: 150px;
+  max-height: 300px;
+}
+
+.riskAssessment-table {
+  padding-top: 50px;
+  margin-right: 3vw;
+  max-height: 400px;
+}
+
+.green {
+  padding: 3px;
+  background-color: green;
+}
+
+.yellow {
+  padding: 3px;
+  background-color: yellow;
+}
+
+.orange {
+  padding: 3px;
+  background-color: orange;
+}
+
+.red {
+  padding: 3px;
+  background-color: red;
+}
+
+.black {
+  padding: 3px;
+  background-color: black;
+}

@@ -1,0 +1,21 @@
+.StressAnalysisFlex-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.active {
+    margin-top: 50px;
+}
+
+.modal_c {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 80%;
+}
+
+input {
+    text-align: right;
+}

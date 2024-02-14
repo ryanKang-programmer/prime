@@ -1,0 +1,46 @@
+.pipelineOverviewFlex-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.pipelineOverviewFlex-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.pipelineOverviewFlex-col-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.active {
+    margin-top: 50px;
+}  
+
+.closeButton {
+    background-color: white;
+    border: 0px solid white;
+    width: 2px;
+    height: 2px;
+    margin-left: 10px;
+}
+
+/* button:hover {
+    background-color: red;
+} */
+
+.mid {
+    margin: 0 auto !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center !important;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    font-size: 1.2vw;
+    width: 20vw;
+}

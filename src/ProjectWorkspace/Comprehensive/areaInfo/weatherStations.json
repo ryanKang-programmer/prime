@@ -1,0 +1,1232 @@
+[
+ {
+  "OBJECTID *": 1,
+  "Shape *": "Point",
+  "x_coordinate": -62.333333,
+  "y_coordinate": 82.5
+ },
+ {
+  "OBJECTID *": 2,
+  "Shape *": "Point",
+  "x_coordinate": -85.012222,
+  "y_coordinate": 72.992778
+ },
+ {
+  "OBJECTID *": 3,
+  "Shape *": "Point",
+  "x_coordinate": -94.066667,
+  "y_coordinate": 61.1
+ },
+ {
+  "OBJECTID *": 4,
+  "Shape *": "Point",
+  "x_coordinate": -96,
+  "y_coordinate": 64.316667
+ },
+ {
+  "OBJECTID *": 5,
+  "Shape *": "Point",
+  "x_coordinate": -105.138333,
+  "y_coordinate": 69.108056
+ },
+ {
+  "OBJECTID *": 6,
+  "Shape *": "Point",
+  "x_coordinate": -76.526667,
+  "y_coordinate": 64.23
+ },
+ {
+  "OBJECTID *": 7,
+  "Shape *": "Point",
+  "x_coordinate": -90.731111,
+  "y_coordinate": 63.346944
+ },
+ {
+  "OBJECTID *": 8,
+  "Shape *": "Point",
+  "x_coordinate": -68.516667,
+  "y_coordinate": 70.483333
+ },
+ {
+  "OBJECTID *": 9,
+  "Shape *": "Point",
+  "x_coordinate": -83.359444,
+  "y_coordinate": 64.193333
+ },
+ {
+  "OBJECTID *": 10,
+  "Shape *": "Point",
+  "x_coordinate": -85.933333,
+  "y_coordinate": 79.983333
+ },
+ {
+  "OBJECTID *": 11,
+  "Shape *": "Point",
+  "x_coordinate": -95.850278,
+  "y_coordinate": 68.635556
+ },
+ {
+  "OBJECTID *": 12,
+  "Shape *": "Point",
+  "x_coordinate": -82.9,
+  "y_coordinate": 76.416667
+ },
+ {
+  "OBJECTID *": 13,
+  "Shape *": "Point",
+  "x_coordinate": -81.243611,
+  "y_coordinate": 68.776111
+ },
+ {
+  "OBJECTID *": 14,
+  "Shape *": "Point",
+  "x_coordinate": -68.55,
+  "y_coordinate": 63.75
+ },
+ {
+  "OBJECTID *": 15,
+  "Shape *": "Point",
+  "x_coordinate": -89.797222,
+  "y_coordinate": 68.540556
+ },
+ {
+  "OBJECTID *": 16,
+  "Shape *": "Point",
+  "x_coordinate": -115.143889,
+  "y_coordinate": 67.816667
+ },
+ {
+  "OBJECTID *": 17,
+  "Shape *": "Point",
+  "x_coordinate": -65.716667,
+  "y_coordinate": 66.15
+ },
+ {
+  "OBJECTID *": 18,
+  "Shape *": "Point",
+  "x_coordinate": -77.983056,
+  "y_coordinate": 72.683333
+ },
+ {
+  "OBJECTID *": 19,
+  "Shape *": "Point",
+  "x_coordinate": -64.031389,
+  "y_coordinate": 67.545833
+ },
+ {
+  "OBJECTID *": 20,
+  "Shape *": "Point",
+  "x_coordinate": -94.983333,
+  "y_coordinate": 74.716389
+ },
+ {
+  "OBJECTID *": 21,
+  "Shape *": "Point",
+  "x_coordinate": -108.433333,
+  "y_coordinate": 55.833333
+ },
+ {
+  "OBJECTID *": 22,
+  "Shape *": "Point",
+  "x_coordinate": -102.966667,
+  "y_coordinate": 49.216667
+ },
+ {
+  "OBJECTID *": 23,
+  "Shape *": "Point",
+  "x_coordinate": -103.65,
+  "y_coordinate": 50.55
+ },
+ {
+  "OBJECTID *": 24,
+  "Shape *": "Point",
+  "x_coordinate": -105.616667,
+  "y_coordinate": 57.25
+ },
+ {
+  "OBJECTID *": 25,
+  "Shape *": "Point",
+  "x_coordinate": -105.266667,
+  "y_coordinate": 55.15
+ },
+ {
+  "OBJECTID *": 26,
+  "Shape *": "Point",
+  "x_coordinate": -109.466667,
+  "y_coordinate": 49.9
+ },
+ {
+  "OBJECTID *": 27,
+  "Shape *": "Point",
+  "x_coordinate": -105.558056,
+  "y_coordinate": 50.33
+ },
+ {
+  "OBJECTID *": 28,
+  "Shape *": "Point",
+  "x_coordinate": -108.255557,
+  "y_coordinate": 52.771946
+ },
+ {
+  "OBJECTID *": 29,
+  "Shape *": "Point",
+  "x_coordinate": -105.666667,
+  "y_coordinate": 53.216667
+ },
+ {
+  "OBJECTID *": 30,
+  "Shape *": "Point",
+  "x_coordinate": -104.666667,
+  "y_coordinate": 50.433333
+ },
+ {
+  "OBJECTID *": 31,
+  "Shape *": "Point",
+  "x_coordinate": -106.716667,
+  "y_coordinate": 52.166667
+ },
+ {
+  "OBJECTID *": 32,
+  "Shape *": "Point",
+  "x_coordinate": -107.733333,
+  "y_coordinate": 50.266667
+ },
+ {
+  "OBJECTID *": 33,
+  "Shape *": "Point",
+  "x_coordinate": -108.483333,
+  "y_coordinate": 59.566667
+ },
+ {
+  "OBJECTID *": 34,
+  "Shape *": "Point",
+  "x_coordinate": -106.066667,
+  "y_coordinate": 53.916667
+ },
+ {
+  "OBJECTID *": 35,
+  "Shape *": "Point",
+  "x_coordinate": -102.466667,
+  "y_coordinate": 51.266667
+ },
+ {
+  "OBJECTID *": 36,
+  "Shape *": "Point",
+  "x_coordinate": -113.533333,
+  "y_coordinate": 54.816667
+ },
+ {
+  "OBJECTID *": 37,
+  "Shape *": "Point",
+  "x_coordinate": -115.552236,
+  "y_coordinate": 51.193358
+ },
+ {
+  "OBJECTID *": 38,
+  "Shape *": "Point",
+  "x_coordinate": -119.396944,
+  "y_coordinate": 55.196667
+ },
+ {
+  "OBJECTID *": 39,
+  "Shape *": "Point",
+  "x_coordinate": -111.85,
+  "y_coordinate": 50.55
+ },
+ {
+  "OBJECTID *": 40,
+  "Shape *": "Point",
+  "x_coordinate": -114.020278,
+  "y_coordinate": 51.113889
+ },
+ {
+  "OBJECTID *": 41,
+  "Shape *": "Point",
+  "x_coordinate": -110.283333,
+  "y_coordinate": 54.416667
+ },
+ {
+  "OBJECTID *": 42,
+  "Shape *": "Point",
+  "x_coordinate": -111.449444,
+  "y_coordinate": 52.074167
+ },
+ {
+  "OBJECTID *": 43,
+  "Shape *": "Point",
+  "x_coordinate": -113.583333,
+  "y_coordinate": 53.316667
+ },
+ {
+  "OBJECTID *": 44,
+  "Shape *": "Point",
+  "x_coordinate": -113.516667,
+  "y_coordinate": 53.566667
+ },
+ {
+  "OBJECTID *": 45,
+  "Shape *": "Point",
+  "x_coordinate": -116.480833,
+  "y_coordinate": 53.595
+ },
+ {
+  "OBJECTID *": 46,
+  "Shape *": "Point",
+  "x_coordinate": -111.116667,
+  "y_coordinate": 58.766667
+ },
+ {
+  "OBJECTID *": 47,
+  "Shape *": "Point",
+  "x_coordinate": -111.216667,
+  "y_coordinate": 56.65
+ },
+ {
+  "OBJECTID *": 48,
+  "Shape *": "Point",
+  "x_coordinate": -117.164722,
+  "y_coordinate": 58.621389
+ },
+ {
+  "OBJECTID *": 49,
+  "Shape *": "Point",
+  "x_coordinate": -118.029722,
+  "y_coordinate": 52.926389
+ },
+ {
+  "OBJECTID *": 50,
+  "Shape *": "Point",
+  "x_coordinate": -113.756417,
+  "y_coordinate": 52.449194
+ },
+ {
+  "OBJECTID *": 51,
+  "Shape *": "Point",
+  "x_coordinate": -112.783333,
+  "y_coordinate": 49.7
+ },
+ {
+  "OBJECTID *": 52,
+  "Shape *": "Point",
+  "x_coordinate": -110.717222,
+  "y_coordinate": 50.025
+ },
+ {
+  "OBJECTID *": 53,
+  "Shape *": "Point",
+  "x_coordinate": -116.05,
+  "y_coordinate": 52.5
+ },
+ {
+  "OBJECTID *": 54,
+  "Shape *": "Point",
+  "x_coordinate": -110.466667,
+  "y_coordinate": 49.116667
+ },
+ {
+  "OBJECTID *": 55,
+  "Shape *": "Point",
+  "x_coordinate": -117.447222,
+  "y_coordinate": 56.226944
+ },
+ {
+  "OBJECTID *": 56,
+  "Shape *": "Point",
+  "x_coordinate": -114.778333,
+  "y_coordinate": 55.293333
+ },
+ {
+  "OBJECTID *": 57,
+  "Shape *": "Point",
+  "x_coordinate": -121.766667,
+  "y_coordinate": 49.25
+ },
+ {
+  "OBJECTID *": 58,
+  "Shape *": "Point",
+  "x_coordinate": -126.595833,
+  "y_coordinate": 52.3875
+ },
+ {
+  "OBJECTID *": 59,
+  "Shape *": "Point",
+  "x_coordinate": -125.951528,
+  "y_coordinate": 54.376458
+ },
+ {
+  "OBJECTID *": 60,
+  "Shape *": "Point",
+  "x_coordinate": -124.9,
+  "y_coordinate": 49.716667
+ },
+ {
+  "OBJECTID *": 61,
+  "Shape *": "Point",
+  "x_coordinate": -115.7825,
+  "y_coordinate": 49.610278
+ },
+ {
+  "OBJECTID *": 62,
+  "Shape *": "Point",
+  "x_coordinate": -116.500556,
+  "y_coordinate": 49.081944
+ },
+ {
+  "OBJECTID *": 63,
+  "Shape *": "Point",
+  "x_coordinate": -130.032222,
+  "y_coordinate": 58.422222
+ },
+ {
+  "OBJECTID *": 64,
+  "Shape *": "Point",
+  "x_coordinate": -126.544678,
+  "y_coordinate": 49.383186
+ },
+ {
+  "OBJECTID *": 65,
+  "Shape *": "Point",
+  "x_coordinate": -122.597222,
+  "y_coordinate": 58.836389
+ },
+ {
+  "OBJECTID *": 66,
+  "Shape *": "Point",
+  "x_coordinate": -120.740278,
+  "y_coordinate": 56.238056
+ },
+ {
+  "OBJECTID *": 67,
+  "Shape *": "Point",
+  "x_coordinate": -116.981667,
+  "y_coordinate": 51.298333
+ },
+ {
+  "OBJECTID *": 68,
+  "Shape *": "Point",
+  "x_coordinate": -120.441944,
+  "y_coordinate": 50.702222
+ },
+ {
+  "OBJECTID *": 69,
+  "Shape *": "Point",
+  "x_coordinate": -125.766668,
+  "y_coordinate": 58.930001
+ },
+ {
+  "OBJECTID *": 70,
+  "Shape *": "Point",
+  "x_coordinate": -122.678889,
+  "y_coordinate": 53.890833
+ },
+ {
+  "OBJECTID *": 71,
+  "Shape *": "Point",
+  "x_coordinate": -130.444722,
+  "y_coordinate": 54.286111
+ },
+ {
+  "OBJECTID *": 72,
+  "Shape *": "Point",
+  "x_coordinate": -120.511944,
+  "y_coordinate": 49.4675
+ },
+ {
+  "OBJECTID *": 73,
+  "Shape *": "Point",
+  "x_coordinate": -122.51,
+  "y_coordinate": 53.026111
+ },
+ {
+  "OBJECTID *": 74,
+  "Shape *": "Point",
+  "x_coordinate": -127.182778,
+  "y_coordinate": 54.824722
+ },
+ {
+  "OBJECTID *": 75,
+  "Shape *": "Point",
+  "x_coordinate": -129.985,
+  "y_coordinate": 55.936111
+ },
+ {
+  "OBJECTID *": 76,
+  "Shape *": "Point",
+  "x_coordinate": -119.638389,
+  "y_coordinate": 49.563722
+ },
+ {
+  "OBJECTID *": 77,
+  "Shape *": "Point",
+  "x_coordinate": -124.403139,
+  "y_coordinate": 51.674556
+ },
+ {
+  "OBJECTID *": 78,
+  "Shape *": "Point",
+  "x_coordinate": -123.181944,
+  "y_coordinate": 49.195
+ },
+ {
+  "OBJECTID *": 79,
+  "Shape *": "Point",
+  "x_coordinate": -119.193306,
+  "y_coordinate": 50.223556
+ },
+ {
+  "OBJECTID *": 80,
+  "Shape *": "Point",
+  "x_coordinate": -123.32525,
+  "y_coordinate": 48.413417
+ },
+ {
+  "OBJECTID *": 81,
+  "Shape *": "Point",
+  "x_coordinate": -139.05,
+  "y_coordinate": 61.366667
+ },
+ {
+  "OBJECTID *": 82,
+  "Shape *": "Point",
+  "x_coordinate": -139.133333,
+  "y_coordinate": 64.05
+ },
+ {
+  "OBJECTID *": 83,
+  "Shape *": "Point",
+  "x_coordinate": -133.375833,
+  "y_coordinate": 62.2075
+ },
+ {
+  "OBJECTID *": 84,
+  "Shape *": "Point",
+  "x_coordinate": -137.582944,
+  "y_coordinate": 60.7735
+ },
+ {
+  "OBJECTID *": 85,
+  "Shape *": "Point",
+  "x_coordinate": -135.866667,
+  "y_coordinate": 63.616667
+ },
+ {
+  "OBJECTID *": 86,
+  "Shape *": "Point",
+  "x_coordinate": -139.839167,
+  "y_coordinate": 67.570556
+ },
+ {
+  "OBJECTID *": 87,
+  "Shape *": "Point",
+  "x_coordinate": -128.821944,
+  "y_coordinate": 60.117778
+ },
+ {
+  "OBJECTID *": 88,
+  "Shape *": "Point",
+  "x_coordinate": -135.068333,
+  "y_coordinate": 60.71
+ },
+ {
+  "OBJECTID *": 89,
+  "Shape *": "Point",
+  "x_coordinate": -121.236667,
+  "y_coordinate": 61.760278
+ },
+ {
+  "OBJECTID *": 90,
+  "Shape *": "Point",
+  "x_coordinate": -117.805833,
+  "y_coordinate": 70.763056
+ },
+ {
+  "OBJECTID *": 91,
+  "Shape *": "Point",
+  "x_coordinate": -126.753357,
+  "y_coordinate": 65.287525
+ },
+ {
+  "OBJECTID *": 92,
+  "Shape *": "Point",
+  "x_coordinate": -124.082501,
+  "y_coordinate": 69.357779
+ },
+ {
+  "OBJECTID *": 93,
+  "Shape *": "Point",
+  "x_coordinate": -133.016667,
+  "y_coordinate": 69.433333
+ },
+ {
+  "OBJECTID *": 94,
+  "Shape *": "Point",
+  "x_coordinate": -114.440278,
+  "y_coordinate": 62.462778
+ },
+ {
+  "OBJECTID *": 95,
+  "Shape *": "Point",
+  "x_coordinate": -91.628056,
+  "y_coordinate": 48.761111
+ },
+ {
+  "OBJECTID *": 96,
+  "Shape *": "Point",
+  "x_coordinate": -77.878889,
+  "y_coordinate": 45.071389
+ },
+ {
+  "OBJECTID *": 97,
+  "Shape *": "Point",
+  "x_coordinate": -77.394735,
+  "y_coordinate": 44.15057
+ },
+ {
+  "OBJECTID *": 98,
+  "Shape *": "Point",
+  "x_coordinate": -89.895556,
+  "y_coordinate": 53.815556
+ },
+ {
+  "OBJECTID *": 99,
+  "Shape *": "Point",
+  "x_coordinate": -75.666667,
+  "y_coordinate": 44.6
+ },
+ {
+  "OBJECTID *": 100,
+  "Shape *": "Point",
+  "x_coordinate": -74.7489,
+  "y_coordinate": 45.015578
+ },
+ {
+  "OBJECTID *": 101,
+  "Shape *": "Point",
+  "x_coordinate": -93.221389,
+  "y_coordinate": 50.630556
+ },
+ {
+  "OBJECTID *": 102,
+  "Shape *": "Point",
+  "x_coordinate": -79.848889,
+  "y_coordinate": 47.695
+ },
+ {
+  "OBJECTID *": 103,
+  "Shape *": "Point",
+  "x_coordinate": -93.433333,
+  "y_coordinate": 48.65
+ },
+ {
+  "OBJECTID *": 104,
+  "Shape *": "Point",
+  "x_coordinate": -81.716667,
+  "y_coordinate": 43.766667
+ },
+ {
+  "OBJECTID *": 105,
+  "Shape *": "Point",
+  "x_coordinate": -82.566667,
+  "y_coordinate": 45.883333
+ },
+ {
+  "OBJECTID *": 106,
+  "Shape *": "Point",
+  "x_coordinate": -82.443611,
+  "y_coordinate": 49.406389
+ },
+ {
+  "OBJECTID *": 107,
+  "Shape *": "Point",
+  "x_coordinate": -94.365279,
+  "y_coordinate": 49.790279
+ },
+ {
+  "OBJECTID *": 108,
+  "Shape *": "Point",
+  "x_coordinate": -87.936111,
+  "y_coordinate": 52.196111
+ },
+ {
+  "OBJECTID *": 109,
+  "Shape *": "Point",
+  "x_coordinate": -81.15,
+  "y_coordinate": 43.033333
+ },
+ {
+  "OBJECTID *": 110,
+  "Shape *": "Point",
+  "x_coordinate": -80.618056,
+  "y_coordinate": 51.291667
+ },
+ {
+  "OBJECTID *": 111,
+  "Shape *": "Point",
+  "x_coordinate": -79.422778,
+  "y_coordinate": 46.363611
+ },
+ {
+  "OBJECTID *": 112,
+  "Shape *": "Point",
+  "x_coordinate": -80.933333,
+  "y_coordinate": 44.583333
+ },
+ {
+  "OBJECTID *": 113,
+  "Shape *": "Point",
+  "x_coordinate": -85.433333,
+  "y_coordinate": 54.983333
+ },
+ {
+  "OBJECTID *": 114,
+  "Shape *": "Point",
+  "x_coordinate": -77.316667,
+  "y_coordinate": 45.95
+ },
+ {
+  "OBJECTID *": 115,
+  "Shape *": "Point",
+  "x_coordinate": -78.3,
+  "y_coordinate": 44.35
+ },
+ {
+  "OBJECTID *": 116,
+  "Shape *": "Point",
+  "x_coordinate": -90.214167,
+  "y_coordinate": 51.446389
+ },
+ {
+  "OBJECTID *": 117,
+  "Shape *": "Point",
+  "x_coordinate": -91.9,
+  "y_coordinate": 50.116667
+ },
+ {
+  "OBJECTID *": 118,
+  "Shape *": "Point",
+  "x_coordinate": -89.327222,
+  "y_coordinate": 48.369444
+ },
+ {
+  "OBJECTID *": 119,
+  "Shape *": "Point",
+  "x_coordinate": -81.376667,
+  "y_coordinate": 48.569722
+ },
+ {
+  "OBJECTID *": 120,
+  "Shape *": "Point",
+  "x_coordinate": -81.633333,
+  "y_coordinate": 45.233333
+ },
+ {
+  "OBJECTID *": 121,
+  "Shape *": "Point",
+  "x_coordinate": -79.4,
+  "y_coordinate": 43.666667
+ },
+ {
+  "OBJECTID *": 122,
+  "Shape *": "Point",
+  "x_coordinate": -84.783333,
+  "y_coordinate": 47.966667
+ },
+ {
+  "OBJECTID *": 123,
+  "Shape *": "Point",
+  "x_coordinate": -75.665003,
+  "y_coordinate": 45.313698
+ },
+ {
+  "OBJECTID *": 124,
+  "Shape *": "Point",
+  "x_coordinate": -97.033333,
+  "y_coordinate": 52.35
+ },
+ {
+  "OBJECTID *": 125,
+  "Shape *": "Point",
+  "x_coordinate": -99.95,
+  "y_coordinate": 49.916667
+ },
+ {
+  "OBJECTID *": 126,
+  "Shape *": "Point",
+  "x_coordinate": -101.683333,
+  "y_coordinate": 57.883333
+ },
+ {
+  "OBJECTID *": 127,
+  "Shape *": "Point",
+  "x_coordinate": -94.066667,
+  "y_coordinate": 58.733333
+ },
+ {
+  "OBJECTID *": 128,
+  "Shape *": "Point",
+  "x_coordinate": -100.05,
+  "y_coordinate": 51.1
+ },
+ {
+  "OBJECTID *": 129,
+  "Shape *": "Point",
+  "x_coordinate": -94.710556,
+  "y_coordinate": 56.3575
+ },
+ {
+  "OBJECTID *": 130,
+  "Shape *": "Point",
+  "x_coordinate": -97.05,
+  "y_coordinate": 50.633333
+ },
+ {
+  "OBJECTID *": 131,
+  "Shape *": "Point",
+  "x_coordinate": -99.283333,
+  "y_coordinate": 53.15
+ },
+ {
+  "OBJECTID *": 132,
+  "Shape *": "Point",
+  "x_coordinate": -94.65,
+  "y_coordinate": 53.85
+ },
+ {
+  "OBJECTID *": 133,
+  "Shape *": "Point",
+  "x_coordinate": -100.983333,
+  "y_coordinate": 49.283333
+ },
+ {
+  "OBJECTID *": 134,
+  "Shape *": "Point",
+  "x_coordinate": -98.083333,
+  "y_coordinate": 49.183333
+ },
+ {
+  "OBJECTID *": 135,
+  "Shape *": "Point",
+  "x_coordinate": -95.598336,
+  "y_coordinate": 49.023611
+ },
+ {
+  "OBJECTID *": 136,
+  "Shape *": "Point",
+  "x_coordinate": -101.233333,
+  "y_coordinate": 52.116667
+ },
+ {
+  "OBJECTID *": 137,
+  "Shape *": "Point",
+  "x_coordinate": -101.1,
+  "y_coordinate": 53.966667
+ },
+ {
+  "OBJECTID *": 138,
+  "Shape *": "Point",
+  "x_coordinate": -97.866667,
+  "y_coordinate": 55.8
+ },
+ {
+  "OBJECTID *": 139,
+  "Shape *": "Point",
+  "x_coordinate": -97.233333,
+  "y_coordinate": 49.916667
+ },
+ {
+  "OBJECTID *": 140,
+  "Shape *": "Point",
+  "x_coordinate": -55.8,
+  "y_coordinate": 47.983333
+ },
+ {
+  "OBJECTID *": 141,
+  "Shape *": "Point",
+  "x_coordinate": -53.114167,
+  "y_coordinate": 48.667222
+ },
+ {
+  "OBJECTID *": 142,
+  "Shape *": "Point",
+  "x_coordinate": -57.616667,
+  "y_coordinate": 47.616667
+ },
+ {
+  "OBJECTID *": 143,
+  "Shape *": "Point",
+  "x_coordinate": -64.093889,
+  "y_coordinate": 53.557778
+ },
+ {
+  "OBJECTID *": 144,
+  "Shape *": "Point",
+  "x_coordinate": -57.581111,
+  "y_coordinate": 50.236389
+ },
+ {
+  "OBJECTID *": 145,
+  "Shape *": "Point",
+  "x_coordinate": -56.6,
+  "y_coordinate": 48.766667
+ },
+ {
+  "OBJECTID *": 146,
+  "Shape *": "Point",
+  "x_coordinate": -54.576389,
+  "y_coordinate": 48.944444
+ },
+ {
+  "OBJECTID *": 147,
+  "Shape *": "Point",
+  "x_coordinate": -60.416667,
+  "y_coordinate": 53.316667
+ },
+ {
+  "OBJECTID *": 148,
+  "Shape *": "Point",
+  "x_coordinate": -55.666667,
+  "y_coordinate": 48.933333
+ },
+ {
+  "OBJECTID *": 149,
+  "Shape *": "Point",
+  "x_coordinate": -60.216667,
+  "y_coordinate": 55.45
+ },
+ {
+  "OBJECTID *": 150,
+  "Shape *": "Point",
+  "x_coordinate": -61.683333,
+  "y_coordinate": 56.55
+ },
+ {
+  "OBJECTID *": 151,
+  "Shape *": "Point",
+  "x_coordinate": -57.877778,
+  "y_coordinate": 49.57
+ },
+ {
+  "OBJECTID *": 152,
+  "Shape *": "Point",
+  "x_coordinate": -52.784722,
+  "y_coordinate": 47.515556
+ },
+ {
+  "OBJECTID *": 153,
+  "Shape *": "Point",
+  "x_coordinate": -55.383333,
+  "y_coordinate": 46.916667
+ },
+ {
+  "OBJECTID *": 154,
+  "Shape *": "Point",
+  "x_coordinate": -53.974444,
+  "y_coordinate": 48.556944
+ },
+ {
+  "OBJECTID *": 155,
+  "Shape *": "Point",
+  "x_coordinate": -59.308333,
+  "y_coordinate": 47.711667
+ },
+ {
+  "OBJECTID *": 156,
+  "Shape *": "Point",
+  "x_coordinate": -71,
+  "y_coordinate": 48.333333
+ },
+ {
+  "OBJECTID *": 157,
+  "Shape *": "Point",
+  "x_coordinate": -68.2,
+  "y_coordinate": 49.133333
+ },
+ {
+  "OBJECTID *": 158,
+  "Shape *": "Point",
+  "x_coordinate": -67.233333,
+  "y_coordinate": 48.366667
+ },
+ {
+  "OBJECTID *": 159,
+  "Shape *": "Point",
+  "x_coordinate": -74.533333,
+  "y_coordinate": 49.766667
+ },
+ {
+  "OBJECTID *": 160,
+  "Shape *": "Point",
+  "x_coordinate": -72.483333,
+  "y_coordinate": 45.883333
+ },
+ {
+  "OBJECTID *": 161,
+  "Shape *": "Point",
+  "x_coordinate": -64.478056,
+  "y_coordinate": 48.776944
+ },
+ {
+  "OBJECTID *": 162,
+  "Shape *": "Point",
+  "x_coordinate": -78.083333,
+  "y_coordinate": 58.466667
+ },
+ {
+  "OBJECTID *": 163,
+  "Shape *": "Point",
+  "x_coordinate": -68.416667,
+  "y_coordinate": 58.1
+ },
+ {
+  "OBJECTID *": 164,
+  "Shape *": "Point",
+  "x_coordinate": -77.75,
+  "y_coordinate": 55.283333
+ },
+ {
+  "OBJECTID *": 165,
+  "Shape *": "Point",
+  "x_coordinate": -77.7,
+  "y_coordinate": 53.633333
+ },
+ {
+  "OBJECTID *": 166,
+  "Shape *": "Point",
+  "x_coordinate": -72.7875,
+  "y_coordinate": 47.411111
+ },
+ {
+  "OBJECTID *": 167,
+  "Shape *": "Point",
+  "x_coordinate": -75.991944,
+  "y_coordinate": 46.274722
+ },
+ {
+  "OBJECTID *": 168,
+  "Shape *": "Point",
+  "x_coordinate": -77.805,
+  "y_coordinate": 49.765556
+ },
+ {
+  "OBJECTID *": 169,
+  "Shape *": "Point",
+  "x_coordinate": -68.216667,
+  "y_coordinate": 48.6
+ },
+ {
+  "OBJECTID *": 170,
+  "Shape *": "Point",
+  "x_coordinate": -61.8,
+  "y_coordinate": 50.183333
+ },
+ {
+  "OBJECTID *": 171,
+  "Shape *": "Point",
+  "x_coordinate": -74.624169,
+  "y_coordinate": 47.922224
+ },
+ {
+  "OBJECTID *": 172,
+  "Shape *": "Point",
+  "x_coordinate": -71.383611,
+  "y_coordinate": 46.788889
+ },
+ {
+  "OBJECTID *": 173,
+  "Shape *": "Point",
+  "x_coordinate": -66.8,
+  "y_coordinate": 54.8
+ },
+ {
+  "OBJECTID *": 174,
+  "Shape *": "Point",
+  "x_coordinate": -66.25,
+  "y_coordinate": 50.216667
+ },
+ {
+  "OBJECTID *": 175,
+  "Shape *": "Point",
+  "x_coordinate": -71.35,
+  "y_coordinate": 46.1
+ },
+ {
+  "OBJECTID *": 176,
+  "Shape *": "Point",
+  "x_coordinate": -77.786667,
+  "y_coordinate": 48.056389
+ },
+ {
+  "OBJECTID *": 177,
+  "Shape *": "Point",
+  "x_coordinate": -63.169736,
+  "y_coordinate": 46.343617
+ },
+ {
+  "OBJECTID *": 178,
+  "Shape *": "Point",
+  "x_coordinate": -62.575833,
+  "y_coordinate": 46.450278
+ },
+ {
+  "OBJECTID *": 179,
+  "Shape *": "Point",
+  "x_coordinate": -63.838056,
+  "y_coordinate": 46.441111
+ },
+ {
+  "OBJECTID *": 180,
+  "Shape *": "Point",
+  "x_coordinate": -60.947222,
+  "y_coordinate": 46.645
+ },
+ {
+  "OBJECTID *": 181,
+  "Shape *": "Point",
+  "x_coordinate": -62.016667,
+  "y_coordinate": 45.483333
+ },
+ {
+  "OBJECTID *": 182,
+  "Shape *": "Point",
+  "x_coordinate": -63.466667,
+  "y_coordinate": 45.416667
+ },
+ {
+  "OBJECTID *": 183,
+  "Shape *": "Point",
+  "x_coordinate": -64.916667,
+  "y_coordinate": 44.983333
+ },
+ {
+  "OBJECTID *": 184,
+  "Shape *": "Point",
+  "x_coordinate": -60.4,
+  "y_coordinate": 46.666667
+ },
+ {
+  "OBJECTID *": 185,
+  "Shape *": "Point",
+  "x_coordinate": -65.203065,
+  "y_coordinate": 44.43224
+ },
+ {
+  "OBJECTID *": 186,
+  "Shape *": "Point",
+  "x_coordinate": -64.933333,
+  "y_coordinate": 44.133333
+ },
+ {
+  "OBJECTID *": 187,
+  "Shape *": "Point",
+  "x_coordinate": -64.241444,
+  "y_coordinate": 45.759556
+ },
+ {
+  "OBJECTID *": 188,
+  "Shape *": "Point",
+  "x_coordinate": -64.346944,
+  "y_coordinate": 45.413333
+ },
+ {
+  "OBJECTID *": 189,
+  "Shape *": "Point",
+  "x_coordinate": -63.506667,
+  "y_coordinate": 44.636389
+ },
+ {
+  "OBJECTID *": 190,
+  "Shape *": "Point",
+  "x_coordinate": -60.048139,
+  "y_coordinate": 46.166667
+ },
+ {
+  "OBJECTID *": 191,
+  "Shape *": "Point",
+  "x_coordinate": -60.041667,
+  "y_coordinate": 46.163333
+ },
+ {
+  "OBJECTID *": 192,
+  "Shape *": "Point",
+  "x_coordinate": -66.088611,
+  "y_coordinate": 43.830833
+ },
+ {
+  "OBJECTID *": 193,
+  "Shape *": "Point",
+  "x_coordinate": -66.3375,
+  "y_coordinate": 47.987222
+ },
+ {
+  "OBJECTID *": 194,
+  "Shape *": "Point",
+  "x_coordinate": -66.15,
+  "y_coordinate": 46.55
+ },
+ {
+  "OBJECTID *": 195,
+  "Shape *": "Point",
+  "x_coordinate": -68.324456,
+  "y_coordinate": 47.416667
+ },
+ {
+  "OBJECTID *": 196,
+  "Shape *": "Point",
+  "x_coordinate": -66.608892,
+  "y_coordinate": 45.920278
+ },
+ {
+  "OBJECTID *": 197,
+  "Shape *": "Point",
+  "x_coordinate": -64.95,
+  "y_coordinate": 45.6
+ },
+ {
+  "OBJECTID *": 198,
+  "Shape *": "Point",
+  "x_coordinate": -65.465,
+  "y_coordinate": 47.009444
+ },
+ {
+  "OBJECTID *": 199,
+  "Shape *": "Point",
+  "x_coordinate": -64.790289,
+  "y_coordinate": 46.101389
+ },
+ {
+  "OBJECTID *": 200,
+  "Shape *": "Point",
+  "x_coordinate": -65.783333,
+  "y_coordinate": 47.4
+ },
+ {
+  "OBJECTID *": 201,
+  "Shape *": "Point",
+  "x_coordinate": -64.866667,
+  "y_coordinate": 46.666667
+ },
+ {
+  "OBJECTID *": 202,
+  "Shape *": "Point",
+  "x_coordinate": -65.885569,
+  "y_coordinate": 45.318056
+ },
+ {
+  "OBJECTID *": 203,
+  "Shape *": "Point",
+  "x_coordinate": -65.533333,
+  "y_coordinate": 45.716667
+ },
+ {
+  "OBJECTID *": 204,
+  "Shape *": "Point",
+  "x_coordinate": -67.553611,
+  "y_coordinate": 46.170278
+ },
+ {
+  "OBJECTID *": 205,
+  "Shape *": "Point",
+  "x_coordinate": -73.737958,
+  "y_coordinate": 45.467927
+ }
+]

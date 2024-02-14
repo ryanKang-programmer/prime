@@ -1,0 +1,41 @@
+[
+ {
+  "OID_": 0,
+  "FID_pipeli": 1,
+  "FID_L0Lake": 147085,
+  "HYDROUID": 6853321,
+  "NAME": "Blindman River",
+  "RANK": 4,
+  "PRUID": 48,
+  "Province": "Alberta",
+  "Shape_Leng": 0.000500700652839,
+  "Start Coordinates": "(113.8824159°W 52.3457045°N)",
+  "End Coordinates": "(113.8822528°W 52.3461798°N)"
+ },
+ {
+  "OID_": 1,
+  "FID_pipeli": 1,
+  "FID_L0Lake": 149224,
+  "HYDROUID": 8124116,
+  "NAME": " ",
+  "RANK": 6,
+  "PRUID": 48,
+  "Province": "Alberta",
+  "Shape_Leng": 0.00573718581745,
+  "Start Coordinates": "(113.5483449°W 53.3305033°N)",
+  "End Coordinates": "(113.5425888°W 53.3305134°N)"
+ },
+ {
+  "OID_": 2,
+  "FID_pipeli": 1,
+  "FID_L0Lake": 150051,
+  "HYDROUID": 6302659,
+  "NAME": "Red Deer River",
+  "RANK": 2,
+  "PRUID": 48,
+  "Province": "Alberta",
+  "Shape_Leng": 0.00116641311497,
+  "Start Coordinates": "(113.9136319°W 52.2077493°N)",
+  "End Coordinates": "(113.9147740°W 52.20809019°N)"
+ }
+]
